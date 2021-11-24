@@ -1,0 +1,2886 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head attr='https://www.topuniversities.com/'>
+<script type="cb6d8fb66398396a222dbb48-text/javascript">
+    function setCookieTUTM(cname, cvalue, exdays) {
+      const d = new Date();
+      d.setTime(d.getTime() + (exdays*24*60*60*1000));
+      let expires = "expires="+ d.toUTCString();
+      document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+    }
+    function getCookieTUTM(cname) {
+      let name = cname + "=";
+      let decodedCookie = decodeURIComponent(document.cookie);
+      let ca = decodedCookie.split(';');
+      for(let i = 0; i <ca.length; i++) {
+        let c = ca[i];
+        while (c.charAt(0) == ' ') {
+          c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+          return c.substring(name.length, c.length);
+        }
+      }
+      return "";
+    }
+    let UUID = '';
+    if( getCookieTUTM("STYXKEY-globaluserUUID") !== undefined &&  
+      getCookieTUTM("STYXKEY-globaluserUUID") !== null ){
+       UUID =  getCookieTUTM("STYXKEY-globaluserUUID");
+    }else{
+      let randomnos = Math.floor(Math.random() *  99999999);
+      let currenttimestamp = new Date().getTime();
+      UUID = `Top Universities-${currenttimestamp}-${randomnos}`;
+      setCookieTUTM("STYXKEY-globaluserUUID", UUID, 1);
+    }
+      dataLayer = [{
+          'event': 'UserStatus',
+          'userID': UUID,
+          'user_status': 'loggedOut'
+      }];
+    </script>
+<script type="cb6d8fb66398396a222dbb48-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+
+  {'gtm.start': new Date().getTime(),event:'gtm.js'}
+  );var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-W4T4GS');</script>
+
+<script src="https://cdn-eu.pagesense.io/js/qsquacquarellisymonds/a3be10814e4947ae91785d5e5200c749.js" type="cb6d8fb66398396a222dbb48-text/javascript"></script>
+
+
+<script type="cb6d8fb66398396a222dbb48-text/javascript">!function(a,e,d,m,t){a.adm={};a.adm.pixid=136038;var o=e.getElementsByTagName("head")[0],c=e.createElement("script");a.adm.json="https://ps.l.admedo.com/e3322918-86d6-46ae-b85a-9d5f02249f4c.json",a.adm.pixurl="https://pool.admedo.com",c.src="https://pj.l.admedo.com/admtracker.lib.min.js",c.async=!0,o.appendChild(c)}(window,document);</script>
+<noscript><img height="1" width="1" style="display:none" src="https://pool.admedo.com/pixel?id=136038&t=img" /></noscript>
+
+
+<meta name="facebook-domain-verification" content="jyed73etkbrc34h8gwtc8axnj2g5v3" />
+
+
+<link rel="preconnect" href="//cdn.bannerflow.com" crossorigin>
+<link rel="preconnect" href="//embed.bannerflow.com" crossorigin>
+<link rel="preconnect" href="//fonts.googleapis.com" crossorigin>
+<link rel="preconnect" href="//c.bannerflow.net" crossorigin>
+<link rel="preconnect" href="//ajax.cloudflare.com" crossorigin>
+<link rel="preconnect" href="//cdnjs.cloudflare.com" crossorigin>
+<link rel="preconnect" href="//code.jquery.com" crossorigin>
+<link rel="preconnect" href="//static.cloudflareinsights.com" crossorigin>
+<link rel="preconnect" href="//cdn.jsdelivr.net" crossorigin>
+<link rel="preconnect" href="//kit.fontawesome.com" crossorigin>
+<link rel="preconnect" href="//static.addtoany.com" crossorigin>
+<link rel="preconnect" href="//dev-sso.qs.com" crossorigin>
+<link rel="preconnect" href="//www.googletagservices.com" crossorigin>
+<link rel="preconnect" href="//securepubads.g.doubleclick.net" crossorigin>
+<link rel="preconnect" href="//adservice.google.com" crossorigin>
+<link rel="preconnect" href="//tpc.googlesyndication.com" crossorigin>
+<link rel="preconnect" href="//ajax.googleapis.com" crossorigin>
+<link rel="preconnect" href="//www.googletagmanager.com" crossorigin>
+<link rel="preconnect" href="//ka-p.fontawesome.com" crossorigin>
+<link rel="preconnect" href="//pagead2.googlesyndication.com" crossorigin>
+<link rel="preconnect" href="//fonts.googleapis.com" crossorigin>
+<link rel="preconnect" href="//bam.nr-data.net" crossorigin>
+<link rel="preconnect" href="//www.gstatic.com" crossorigin>
+
+<meta charset="utf-8" />
+<link rel="canonical" href="https://www.topuniversities.com/home" />
+<meta property="og:site_name" content="Top Universities" />
+<meta property="og:type" content="panopoly_landing_page" />
+<meta property="og:url" content="https://www.topuniversities.com/home" />
+<meta property="og:title" content="Home" />
+<meta property="og:image" content="https://www.topuniversities.com/sites/default/files/2021-11/TUhomepage-desktop%404x.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@TopUnis" />
+<meta name="twitter:title" content="Home" />
+<meta name="twitter:url" content="https://www.topuniversities.com/home" />
+<meta name="twitter:image" content="https://www.topuniversities.com/sites/default/files/2021-11/TUhomepage-desktop%404x.png" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<script type="cb6d8fb66398396a222dbb48-text/javascript">
+  // Initialize the google variables.
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  // Add a place to store the slot name variable.
+  googletag.slots = googletag.slots || {};
+  (function () {
+    var useSSL = "https:" == document.location.protocol;
+    var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+</script>
+<script type="cb6d8fb66398396a222dbb48-text/javascript">
+    // Start by defining breakpoints for this ad.
+  var mapping = googletag.sizeMapping()
+        .addSize([0, 320], [[300, 50], [300, 250]])
+            .addSize([768, 200], [[970, 250], [970, 90], [728, 90]])
+            .build();
+  
+  googletag.slots["responsive_ad_3"] = googletag.defineSlot("/8070/Topuni-Web/home", [[970, 250], [970, 90], [728, 90], [300, 50], [300, 250]], "js-dfp-tag-responsive_ad_3")
+
+        .addService(googletag.pubads())
+
+      
+      
+      
+            .setTargeting('URL', ['/home'])
+                  // Apply size mapping when there are breakpoints.
+      .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="cb6d8fb66398396a222dbb48-text/javascript">
+    // Start by defining breakpoints for this ad.
+  var mapping = googletag.sizeMapping()
+        .addSize([0, 320], [[300, 50], [300, 250]])
+            .addSize([768, 200], [[970, 250], [970, 90], [728, 90]])
+            .build();
+  
+  googletag.slots["responsive_ad_2"] = googletag.defineSlot("/8070/Topuni-Web/home", [[970, 250], [970, 90], [728, 90], [300, 50], [300, 250]], "js-dfp-tag-responsive_ad_2")
+
+        .addService(googletag.pubads())
+
+      
+      
+      
+            .setTargeting('URL', ['/home'])
+                  // Apply size mapping when there are breakpoints.
+      .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="cb6d8fb66398396a222dbb48-text/javascript">
+    // Start by defining breakpoints for this ad.
+  var mapping = googletag.sizeMapping()
+        .addSize([0, 320], [[300, 50], [300, 250]])
+            .addSize([768, 200], [[970, 250], [970, 90], [728, 90]])
+            .build();
+  
+  googletag.slots["responsive_ad_1"] = googletag.defineSlot("/8070/Topuni-Web/home", [[970, 250], [728, 90], [970, 90], [300, 50], [300, 250]], "js-dfp-tag-responsive_ad_1")
+
+        .addService(googletag.pubads())
+
+      
+      
+      
+            .setTargeting('URL', ['/home'])
+                  // Apply size mapping when there are breakpoints.
+      .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="cb6d8fb66398396a222dbb48-text/javascript">
+    // Start by defining breakpoints for this ad.
+  var mapping = googletag.sizeMapping()
+        .addSize([0, 320], [300, 50])
+            .addSize([768, 200], [[970, 90], [728, 90]])
+            .build();
+  
+  googletag.slots["responsive_ad_7"] = googletag.defineSlot("/8070/Topuni-Web/home", [[970, 90], [728, 90], [300, 50]], "js-dfp-tag-responsive_ad_7")
+
+        .addService(googletag.pubads())
+
+      
+      
+      
+            .setTargeting('URL', ['/home'])
+                  // Apply size mapping when there are breakpoints.
+      .defineSizeMapping(mapping)
+    ;
+</script>
+<script type="cb6d8fb66398396a222dbb48-text/javascript">
+  googletag.cmd.push(function () {
+        googletag.pubads().enableAsyncRendering();
+                googletag.pubads().collapseEmptyDivs();
+                googletag.pubads().setTargeting('pos', ['top']);
+        googletag.pubads().setTargeting('URL', ['/home']);
+        googletag.pubads().setTargeting('ArticleTagging', ['','','']);
+      });
+  googletag.enableServices();
+</script><link rel="shortcut icon" href="/themes/custom/tu_d8/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="revision" href="https://www.topuniversities.com/home" />
+<script type="cb6d8fb66398396a222dbb48-text/javascript">window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_config.thanks = {
+    postShare: false
+};</script>
+<meta name="referrer" content="unsafe-url" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" />
+<title>University Ranking Worldwide, Scholarship, Study Guides, Courses &amp; Events | Top Universities</title>
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_GAj5RoaRGUcAODAvDede3dnur4GHAcO9euM_N0RMXdk.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_9ZvaxOwKqtIEmHZpahHugf1HPaIx2x6vPiOsmVY0QJM.css" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/components/search.min.css" />
+<link rel="stylesheet" media="all" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_E3AG3sc8WsOT_R0D1eKVqmkdtmefvnm86sEzcJe_MZc.css" />
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="https://sso.qs.com/js/sso.min.js" type="cb6d8fb66398396a222dbb48-text/javascript"></script>
+<meta name="google-site-verification" content="Gt4Ek9hCb6nf3m8WfbvskhuFcDIry9-i4Z_l1TB1_CY" />
+
+
+<script type="cb6d8fb66398396a222dbb48-text/javascript">
+              (function(h,o,t,j,a,r){
+                  h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+                  h._hjSettings={hjid:173635,hjsv:6};
+                  a=o.getElementsByTagName('head')[0];
+                  r=o.createElement('script');r.async=1;
+                  r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+                  a.appendChild(r);
+              })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+          </script>
+<script type="cb6d8fb66398396a222dbb48-text/javascript">
+        document.addEventListener("DOMContentLoaded", function() {
+  var lazyloadImages = document.querySelectorAll("img.lazy-image");    
+  var lazyloadThrottleTimeout;
+  
+  function lazyload () {
+    if(lazyloadThrottleTimeout) {
+      clearTimeout(lazyloadThrottleTimeout);
+    }    
+    
+    lazyloadThrottleTimeout = setTimeout(function() {
+        var scrollTop = window.pageYOffset;
+        lazyloadImages.forEach(function(img) {
+            if(img.offsetTop < (window.innerHeight + scrollTop)) {
+              img.src = img.dataset.src;
+              img.classList.remove('lazy-image');
+            }
+        });
+        if(lazyloadImages.length == 0) { 
+          document.removeEventListener("scroll", lazyload);
+          window.removeEventListener("resize", lazyload);
+          window.removeEventListener("orientationChange", lazyload);
+        }
+    }, 20);
+  }
+  
+  document.addEventListener("scroll", lazyload);
+  window.addEventListener("resize", lazyload);
+  window.addEventListener("orientationChange", lazyload);
+  window.addEventListener("DOMContentLoaded", lazyload);
+});
+
+
+  function BackgroundNode({node, loadedClassName}) {
+  let src = node.getAttribute('data-background-image-url');
+  let show = (onComplete) => {
+    requestAnimationFrame(() => {
+      node.style.backgroundImage = `url(${src})`
+      node.classList.add(loadedClassName);
+      onComplete();
+    })
+  }
+
+  return {
+    node,
+
+    // onComplete is called after the image is done loading.
+    load: (onComplete) => {
+      let img = new Image();
+      img.onload = show(onComplete);
+      img.src = src;
+    }
+  }
+}
+
+let defaultOptions = {
+  selector: '[data-background-image-url]',
+  loadedClassName: 'loaded'
+}
+
+function BackgroundLazyLoader({selector, loadedClassName} = defaultOptions) {
+  let nodes = [].slice.apply(document.querySelectorAll(selector))
+    .map(node => new BackgroundNode({node, loadedClassName}));
+
+  let callback = (entries, observer) => {
+    entries.forEach(({target, isIntersecting}) => {
+      if (!isIntersecting) {
+        return;
+      }
+
+      let obj = nodes.find(it => it.node.isSameNode(target));
+      
+      if (obj) {
+        obj.load(() => {
+          // Unobserve the node:
+          observer.unobserve(target);
+          // Remove this node from our list:
+          nodes = nodes.filter(n => !n.node.isSameNode(target));
+          
+          // If there are no remaining unloaded nodes,
+          // disconnect the observer since we don't need it anymore.
+          if (!nodes.length) {
+            observer.disconnect();
+          }
+        });
+      }
+    })
+  };
+  
+  let observer = new IntersectionObserver(callback);
+  nodes.forEach(node => observer.observe(node.node));
+};
+
+
+document.addEventListener("DOMContentLoaded", function() {  
+  BackgroundLazyLoader()
+});
+</script>
+</head>
+<body class="not-logged-in path-frontpage node--type-panopoly-landing-page lang-en topuniversities">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W4T4GS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+<div id="page-wrapper">
+<div id="page">
+<button class="click-me" style="visibility: hidden; display: none;">Click me</button>
+<header class="header">
+<div class="top_menu">
+<div class="container">
+<div class="qs_logo tu">
+<a href="/"><img src="/themes/custom/tu_d8/logo.svg" alt=""></a>
+<ul class="top_right_menu d-block d-sm-none top_right_menu_mobile">
+<li class="_mobile-div">
+<a href="#" class="top_search_toggle" data-toggle="modal" data-target="#top_search"><i class="fal fa-search"></i></a>
+</li>
+<li class=" _mobile-div">
+<a class="nav-link reg-log-popup crm_top_nav" href="#" id="user_login" data-toggle="modal" data-target="#user-global-reg" data-stab="#user_sign_in">
+<img src="/themes/custom/tu_d8/images/user-icon-white.svg" class="_user-image">
+</a>
+</li>
+<li class="_mobile-div">
+<a href="#top_menu" class="menu_togle" onclick="if (!window.__cfRLUnblockHandlers) return false; Drupal.behaviors.tu_d8.menutoggle(this)" data-cf-modified-cb6d8fb66398396a222dbb48-="">
+<i class="fal fa-bars"></i>
+<i class="fal fa-times"></i>
+</a>
+</li>
+</ul>
+</div>
+<nav id="top_menu" class="tu">
+<ul class="d-none d-sm-block tu">
+<li class="rankings">
+<a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; return false;" data-cf-modified-cb6d8fb66398396a222dbb48-="">Rankings</a>
+<ul class="rankings">
+<h4 class="d-block d-xl-none">Rankings</h4>
+<li><a href="/university-rankings?utm_source=topnav">Rankings Overview</a>
+</li>
+<li><a href="/qs-world-university-rankings?utm_source=topnav">QS World University Rankings</a>
+</li>
+<li><a href="/subject-rankings/2021?utm_source=topnav">QS World University Rankings by Subject</a>
+</li>
+<li><a href="/business-masters-rankings/2022?utm_source=topnav">QS Business Masters Rankings</a>
+</li>
+<li><a href="/mba-rankings/2022?utm_source=topnav">QS Global MBA Rankings</a>
+</li>
+<li><a href="/university-rankings/employability-rankings/2022?utm_source=topnav">QS Graduate Employability Rankings</a>
+</li>
+<li><a href="/usa-rankings?utm_source=topnav">QS USA University Rankings</a>
+</li>
+<li><a href="/regional-rankings?utm_source=topnav">QS University Rankings by Region</a>
+</li>
+<li><a href="/rankings-by-location/2020?utm_source=topnav">QS University Rankings by Location</a>
+</li>
+<li><a href="/best-student-cities?utm_source=topnav">QS Best Student Cities</a>
+</li>
+<li><a href="/university-rankings-articles/top-50-under-50-next-50-under-50/qs-top-50-under-50-2021?utm_source=topnav">QS Top 50 Under 50</a>
+</li>
+<li><a href="/system-strength-rankings/2018?utm_source=topnav">QS System Strength Rankings</a>
+</li>
+<li><a href="/qs-stars/home?utm_source=topnav">QS Stars Rating System</a>
+</li>
+<li><a href="https://www.igauge.in/ratings?utm_source=TopUniversities&amp;utm_medium=TopNav">QS IGAUGE Rating System</a>
+</li>
+<li><a href="/article/tags/university-rankings?utm_source=topnav">Related Articles</a>
+</li>
+</ul>
+</li>
+<li class="discover">
+<a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; return false;" data-cf-modified-cb6d8fb66398396a222dbb48-="">Discover</a>
+<ul class="discover">
+<h4 class="d-block d-xl-none">Discover</h4>
+<li><a href="/coronavirus-covid-19?utm_source=topnav&amp;utm_medium=Discover">COVID-19 Information</a>
+</li>
+<li><a href="/university-finder/student/match?utm_source=topnav&amp;utm_medium=Discover">Course Matching Tool</a>
+</li>
+<li><a href="/universities?utm_source=topnav&amp;utm_medium=Discover">University Search</a>
+</li>
+<li><a href="/programs?utm_source=topnav&amp;utm_medium=Discover">Program Search</a>
+</li>
+<li><a href="/courses?utm_source=topnav">Subject Guides</a>
+</li>
+<li><a href="/where-to-study/home?utm_source=topnav">Study Destination Guides</a>
+</li>
+<li><a href="/student-info/scholarship-advice?utm_source=topnav">Scholarship Advice</a>
+</li>
+<li><a href="https://www.qsleap.com/webinar?utm_source=topuniversities&amp;utm_campaign=webinars&amp;utm_medium=topuni-tab&amp;__hstc=238059679.d3e6a5a35bca7a0bc7c9b813eaf50c62.1617262851494.1619612635838.1619686049801.23&amp;__hssc=238059679.3.1619686049801&amp;__hsfp=3034996855">Webinars</a>
+</li>
+<li><a href="https://qs.topuniversities.com/business-schools?utm_source=topnav&amp;utm_medium=Discover">Business Schools</a>
+</li>
+</ul>
+</li>
+<li class="events">
+<a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; return false;" data-cf-modified-cb6d8fb66398396a222dbb48-="">Events</a>
+<ul class="events">
+<h4 class="d-block d-xl-none">Events</h4>
+<li><a href="/events?utm_source=topnav&amp;utm_campaign=masters">QS Master&#039;s Events </a>
+</li>
+<li><a href="/events?utm_source=topnav&amp;utm_campaign=mba">QS MBA Events</a>
+</li>
+</ul>
+</li>
+<li class="prepare">
+<a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; return false;" data-cf-modified-cb6d8fb66398396a222dbb48-="">Prepare</a>
+<ul class="prepare">
+<h4 class="d-block d-xl-none">Prepare</h4>
+<li><a href="/coronavirus-covid-19?utm_source=topnav&amp;utm_medium=Prepare">COVID-19 Information</a>
+</li>
+<li><a href="/university-finder/student/match?utm_source=topnav&amp;utm_medium=Prepare">Course Matching Tool</a>
+</li>
+<li><a href="https://www.qsleap.com/?utm_source=topuniversities&amp;utm_campaign=leap&amp;utm_medium=topuni-tab&amp;__hstc=238059679.d3e6a5a35bca7a0bc7c9b813eaf50c62.1617262851494.1619154999914.1619161309571.14&amp;__hssc=238059679.2.1619161309571&amp;__hsfp=3034996855">Free Test Preparation (QS-LEAP)</a>
+</li>
+<li><a href="/student-info/student-finance?utm_source=topnav">Student Finance</a>
+</li>
+<li><a href="/student-info/qs-guides?utm_source=topnav">QS Student Guides</a>
+</li>
+<li><a href="https://qs.topuniversities.com/business-schools?utm_source=topnav&amp;utm_medium=Prepare">Business Schools</a>
+</li>
+</ul>
+</li>
+<li class="apply">
+<a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; return false;" data-cf-modified-cb6d8fb66398396a222dbb48-="">Apply</a>
+<ul class="apply">
+<h4 class="d-block d-xl-none">Apply</h4>
+<li><a href="/coronavirus-covid-19?utm_source=topnav&amp;utm_medium=Apply">COVID-19 Information</a>
+</li>
+<li><a href="/university-finder/student/match?utm_source=topnav&amp;utm_medium=Apply">Course Matching Tool</a>
+</li>
+<li><a href="/universities?utm_source=topnav&amp;utm_medium=Apply">University Profiles</a>
+</li>
+<li><a href="/programs?utm_source=topnav&amp;utm_medium=Apply">Program Profiles</a>
+</li>
+<li><a href="https://qs.topuniversities.com/scholarships?utm_source=topnav">QS WM Scholarship</a>
+</li>
+<li><a href="https://www.qsleap.com/application-builder?utm_source=topuniversities&amp;utm_campaign=leap&amp;utm_medium=topuni-tab&amp;__hstc=238059679.d3e6a5a35bca7a0bc7c9b813eaf50c62.1617262851494.1619154999914.1619161309571.14&amp;__hssc=238059679.3.1619161309571&amp;__hsfp=3034996855">Application Builder</a>
+</li>
+<li><a href="https://qs.topuniversities.com/business-schools?utm_source=topnav&amp;utm_medium=Apply">Business Schools</a>
+</li>
+</ul>
+</li>
+<li class="careers">
+<a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; return false;" data-cf-modified-cb6d8fb66398396a222dbb48-="">Careers</a>
+<ul class="careers">
+<h4 class="d-block d-xl-none">Careers</h4>
+<li><a href="/student-info/careers-advice?utm_source=topnav">Careers Advice</a>
+</li>
+<li><a href="/student-info/totaljobs-gwp?utm_source=topnav">UK Job Search</a>
+</li>
+</ul>
+</li>
+<li class="community">
+<a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; return false;" data-cf-modified-cb6d8fb66398396a222dbb48-="">Community</a>
+<ul class="community">
+<h4 class="d-block d-xl-none">Community</h4>
+<li><a href="/blog?utm_source=topnav">Blog</a>
+</li>
+<li><a href="/student-info/university-news?utm_source=topnav">University News</a>
+</li>
+<li><a href="/student-info/videos?utm_source=topnav">Videos</a>
+</li>
+</ul>
+</li>
+</ul>
+
+<div class="login_section d-block d-sm-none">
+<ul>
+<li class="nav-item">
+<a class="nav-link btn-green reg-log-popup crm_top_nav" href="#" id="user_register" data-toggle="modal" data-target="#user-global-reg" data-stab="#user_join_us">SIGN UP</a>
+</li>
+<li class="nav-item">
+<a class="nav-link reg-log-popup crm_top_nav" href="#" id="user_login" data-toggle="modal" data-target="#user-global-reg" data-stab="#user_sign_in">LOGIN</a>
+</li>
+</ul>
+</div>
+<ul class="accordion d-block d-sm-none mobile-menu-js ">
+<li class="rankings" onclick="if (!window.__cfRLUnblockHandlers) return false; Drupal.behaviors.tu_d8.menutogglelilist(this);" data-cf-modified-cb6d8fb66398396a222dbb48-="">
+<h4 class="header">Rankings</h4>
+<div class="content">
+<ul class="rankings">
+<li><a href="/university-rankings?utm_source=topnav">Rankings Overview</a>
+</li>
+<li><a href="/qs-world-university-rankings?utm_source=topnav">QS World University Rankings</a>
+</li>
+<li><a href="/subject-rankings/2021?utm_source=topnav">QS World University Rankings by Subject</a>
+</li>
+<li><a href="/business-masters-rankings/2022?utm_source=topnav">QS Business Masters Rankings</a>
+</li>
+<li><a href="/mba-rankings/2022?utm_source=topnav">QS Global MBA Rankings</a>
+</li>
+<li><a href="/university-rankings/employability-rankings/2022?utm_source=topnav">QS Graduate Employability Rankings</a>
+</li>
+<li><a href="/usa-rankings?utm_source=topnav">QS USA University Rankings</a>
+</li>
+<li><a href="/regional-rankings?utm_source=topnav">QS University Rankings by Region</a>
+</li>
+<li><a href="/rankings-by-location/2020?utm_source=topnav">QS University Rankings by Location</a>
+</li>
+<li><a href="/best-student-cities?utm_source=topnav">QS Best Student Cities</a>
+</li>
+<li><a href="/university-rankings-articles/top-50-under-50-next-50-under-50/qs-top-50-under-50-2021?utm_source=topnav">QS Top 50 Under 50</a>
+</li>
+<li><a href="/system-strength-rankings/2018?utm_source=topnav">QS System Strength Rankings</a>
+</li>
+<li><a href="/qs-stars/home?utm_source=topnav">QS Stars Rating System</a>
+</li>
+<li><a href="https://www.igauge.in/ratings?utm_source=TopUniversities&amp;utm_medium=TopNav">QS IGAUGE Rating System</a>
+</li>
+<li><a href="/article/tags/university-rankings?utm_source=topnav">Related Articles</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="discover" onclick="if (!window.__cfRLUnblockHandlers) return false; Drupal.behaviors.tu_d8.menutogglelilist(this);" data-cf-modified-cb6d8fb66398396a222dbb48-="">
+<h4 class="header">Discover</h4>
+<div class="content">
+<ul class="discover">
+<li><a href="/coronavirus-covid-19?utm_source=topnav&amp;utm_medium=Discover">COVID-19 Information</a>
+</li>
+<li><a href="/university-finder/student/match?utm_source=topnav&amp;utm_medium=Discover">Course Matching Tool</a>
+</li>
+<li><a href="/universities?utm_source=topnav&amp;utm_medium=Discover">University Search</a>
+</li>
+<li><a href="/programs?utm_source=topnav&amp;utm_medium=Discover">Program Search</a>
+</li>
+<li><a href="/courses?utm_source=topnav">Subject Guides</a>
+</li>
+<li><a href="/where-to-study/home?utm_source=topnav">Study Destination Guides</a>
+</li>
+<li><a href="/student-info/scholarship-advice?utm_source=topnav">Scholarship Advice</a>
+</li>
+<li><a href="https://www.qsleap.com/webinar?utm_source=topuniversities&amp;utm_campaign=webinars&amp;utm_medium=topuni-tab&amp;__hstc=238059679.d3e6a5a35bca7a0bc7c9b813eaf50c62.1617262851494.1619612635838.1619686049801.23&amp;__hssc=238059679.3.1619686049801&amp;__hsfp=3034996855">Webinars</a>
+</li>
+<li><a href="https://qs.topuniversities.com/business-schools?utm_source=topnav&amp;utm_medium=Discover">Business Schools</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="events" onclick="if (!window.__cfRLUnblockHandlers) return false; Drupal.behaviors.tu_d8.menutogglelilist(this);" data-cf-modified-cb6d8fb66398396a222dbb48-="">
+<h4 class="header">Events</h4>
+<div class="content">
+<ul class="events">
+<li><a href="/events?utm_source=topnav&amp;utm_campaign=masters">QS Master&#039;s Events </a>
+</li>
+<li><a href="/events?utm_source=topnav&amp;utm_campaign=mba">QS MBA Events</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="prepare" onclick="if (!window.__cfRLUnblockHandlers) return false; Drupal.behaviors.tu_d8.menutogglelilist(this);" data-cf-modified-cb6d8fb66398396a222dbb48-="">
+<h4 class="header">Prepare</h4>
+<div class="content">
+<ul class="prepare">
+<li><a href="/coronavirus-covid-19?utm_source=topnav&amp;utm_medium=Prepare">COVID-19 Information</a>
+</li>
+<li><a href="/university-finder/student/match?utm_source=topnav&amp;utm_medium=Prepare">Course Matching Tool</a>
+</li>
+<li><a href="https://www.qsleap.com/?utm_source=topuniversities&amp;utm_campaign=leap&amp;utm_medium=topuni-tab&amp;__hstc=238059679.d3e6a5a35bca7a0bc7c9b813eaf50c62.1617262851494.1619154999914.1619161309571.14&amp;__hssc=238059679.2.1619161309571&amp;__hsfp=3034996855">Free Test Preparation (QS-LEAP)</a>
+</li>
+
+<li><a href="/student-info/student-finance?utm_source=topnav">Student Finance</a>
+</li>
+<li><a href="/student-info/qs-guides?utm_source=topnav">QS Student Guides</a>
+</li>
+<li><a href="https://qs.topuniversities.com/business-schools?utm_source=topnav&amp;utm_medium=Prepare">Business Schools</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="apply" onclick="if (!window.__cfRLUnblockHandlers) return false; Drupal.behaviors.tu_d8.menutogglelilist(this);" data-cf-modified-cb6d8fb66398396a222dbb48-="">
+<h4 class="header">Apply</h4>
+<div class="content">
+<ul class="apply">
+<li><a href="/coronavirus-covid-19?utm_source=topnav&amp;utm_medium=Apply">COVID-19 Information</a>
+</li>
+<li><a href="/university-finder/student/match?utm_source=topnav&amp;utm_medium=Apply">Course Matching Tool</a>
+</li>
+<li><a href="/universities?utm_source=topnav&amp;utm_medium=Apply">University Profiles</a>
+</li>
+<li><a href="/programs?utm_source=topnav&amp;utm_medium=Apply">Program Profiles</a>
+</li>
+<li><a href="https://qs.topuniversities.com/scholarships?utm_source=topnav">QS WM Scholarship</a>
+</li>
+<li><a href="https://www.qsleap.com/application-builder?utm_source=topuniversities&amp;utm_campaign=leap&amp;utm_medium=topuni-tab&amp;__hstc=238059679.d3e6a5a35bca7a0bc7c9b813eaf50c62.1617262851494.1619154999914.1619161309571.14&amp;__hssc=238059679.3.1619161309571&amp;__hsfp=3034996855">Application Builder</a>
+</li>
+<li><a href="https://qs.topuniversities.com/business-schools?utm_source=topnav&amp;utm_medium=Apply">Business Schools</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="careers" onclick="if (!window.__cfRLUnblockHandlers) return false; Drupal.behaviors.tu_d8.menutogglelilist(this);" data-cf-modified-cb6d8fb66398396a222dbb48-="">
+<h4 class="header">Careers</h4>
+<div class="content">
+<ul class="careers">
+<li><a href="/student-info/careers-advice?utm_source=topnav">Careers Advice</a>
+</li>
+<li><a href="/student-info/totaljobs-gwp?utm_source=topnav">UK Job Search</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="community" onclick="if (!window.__cfRLUnblockHandlers) return false; Drupal.behaviors.tu_d8.menutogglelilist(this);" data-cf-modified-cb6d8fb66398396a222dbb48-="">
+<h4 class="header">Community</h4>
+<div class="content">
+<ul class="community">
+<li><a href="/blog?utm_source=topnav">Blog</a>
+</li>
+<li><a href="/student-info/university-news?utm_source=topnav">University News</a>
+</li>
+<li><a href="/student-info/videos?utm_source=topnav">Videos</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</nav>
+<div class="icon_menu d-md-block d-sm-none">
+<ul class="top_right_menu">
+<li class="language_change">
+<div class="dropdown">
+<button class="dropdown-toggle" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+EN
+</button>
+<div class="dropdown-menu lang_dropdown_menu dropdown-menu-right dropdownMenu2" aria-labelledby="dropdownMenu2">
+<a class="dropdown-item" href="#">Action</a>
+<a class="dropdown-item" href="#">Another action</a>
+</div>
+</div>
+</li>
+<li class="nav-item nav-search"><a href="#" class="top_search_toggle" data-toggle="modal" data-target="#top_search"><i class="fal fa-search"></i></a></li>
+<li class="nav-item">
+<a class="nav-link reg-log-popup crm_top_nav" href="#" id="user_login" data-toggle="modal" data-target="#user-global-reg" data-stab="#user_sign_in">LOGIN</a>
+</li>
+<li class="nav-item">
+<a class="nav-link btn-green reg-log-popup crm_top_nav" href="#" id="user_register" data-toggle="modal" data-target="#user-global-reg" data-stab="#user_join_us">SIGN UP</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="global_search modal fade" id="top_search" tabindex="-1" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="overlay_search">
+<div class="container">
+<div class="search_field">
+<div class="SearchBox"><i class="fal fa-search"></i></div>
+<a class="close_overlay" data-dismiss="modal" aria-label="Close"><i class="fal fa-times"></i></a>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="results">
+<ul class="search_region">
+<li class="programs_search_res"></li>
+<li class="universities_search_res"></li>
+<li class="events_search_res"></li>
+<li class="rankings_search_res"></li>
+<li class="articles_search_res"></li>
+<li class="videos_search_res"></li>
+</ul>
+</div>
+<div class="no_results"></div>
+<div class="suggestions"></div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="main-wrapper" class="layout-main-wrapper clearfix">
+<div class="highlighted">
+<aside class="section clearfix" role="complementary">
+<section class="region region-highlighted">
+<div data-drupal-messages-fallback class="hidden"></div>
+<div class="block block-qs-coming-soon-alert block-qscomingsoon">
+<div class="content">
+</div>
+</div>
+</section>
+</aside>
+</div>
+<div id="main" class="">
+<main>
+<section class="section">
+<a id="main-content" tabindex="-1"></a>
+<div class="container">
+<section class="region region-content">
+<section class="commenting-on-qna">
+<div id="block-tu-d8-content" class="block block-system block-system-main-block">
+<div class="content">
+<article data-history-node-id="3005629" role="article" about="/home" class="node node--type-panopoly-landing-page node--view-mode-full clearfix">
+<header>
+</header>
+<div class="node__content clearfix">
+<div class="layout layout--onecol">
+<div class="layout__region layout__region--content">
+<div class="block block-dfp block-dfp-ad897a2362-d0a2-4c1c-9d80-8e4be4cf63c4">
+<div class="content">
+<div id="js-dfp-tag-responsive_ad_7">
+<script class="dfp-ads-inview" dfp-id="js-dfp-tag-responsive_ad_7" type="cb6d8fb66398396a222dbb48-text/javascript">
+    googletag.cmd.push(function () {
+      googletag.display('js-dfp-tag-responsive_ad_7');
+    });
+  </script>
+</div>
+</div>
+</div>
+<div class="block block-qs-rankings block-ranking-header-block">
+<div class="content">
+<div class="block block- hero-block force-width-100">
+
+
+
+
+<div class="qs-world-ranking-hero d-none d-md-block landing-hero _required-border" style="background-color: ">
+<div class="container container-withback">
+<div class="left-hand-side-text">
+<div class="_qs-ranking-title">
+<h1 class="land-title _qs-class-headline _home" style="color:">
+Discover top universities, new courses and the latest careers guidance.
+</h1>
+</div>
+<a class="reg-log-popup _new_signin" id="user_register" data-toggle="modal" data-target="#user-global-reg" data-stab="#user_join_us" style="background-color: ">Sign up today</a>
+<div class="qs-videos-btn-block rank-widget-ctas">
+</div>
+</div>
+<div class="right-hand-side-text">
+<div class="right-top-logos">
+</div>
+<img data-src="/sites/default/files/2021-11/TUhomepage-desktop%404x.png" class="d-none d-md-block lazy-image">
+<img data-src="/sites/default/files/2021-11/TUHomepage-mobile%404x.png" class="d-block d-md-none lazy-image">
+</div>
+<div class="_read-more-content-js-div-1 _non_subject">
+</div>
+</div>
+</div>
+<div class="_read-more-content-js-div-1 _only_subject d-none">
+<div class="container container-withback">
+</div>
+</div>
+<div class="qs_common_share hide-in-mobile-shareicon">
+<div class="block block-qs-articleblocks block-share-block-popup">
+<div class="sharecount share-wdt">211</div>
+<div class="content share-buttons" data-att-nid="3005629">
+<div class="share-icons">
+
+<i class="far fa-share-alt" data-toggle="modal" data-target="#myModal"></i>
+<div class="share-icons uni-header-share">
+<div class="modal fade" id="myModal" role="dialog">
+<div class="modal-dialog">
+
+<div class="modal-content">
+<div class="modal-header">
+<p class="modal-title">Share via</p>
+<p class="modal-title-desk">Share this Page</p>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fa fa-times" aria-hidden="true"></i></button>
+</div>
+<div class="modal-body">
+<div id="block-addtoanybuttons" class="block block-addtoany block-addtoany-block">
+<div class="sharecount">211</div>
+<div class="content" data-att-nid="3005629">
+<span class="a2a_kit a2a_kit_size_40 addtoany_list" data-a2a-url="https://www.topuniversities.com/home" data-a2a-title="Home"><a class="a2a_button_facebook"><img src="/themes/custom/tu_d8/images/share_fb.png" border="0" alt="Facebook" width="27" height="27"><span class="a2a_label">Facebook</span></a><a class="a2a_button_twitter"><img src="/themes/custom/tu_d8/images/share_twitter.png" border="0" alt="Twitter" width="27" height="27"><span class="a2a_label">Twitter</span></a><a class="a2a_button_linkedin"><img src="/themes/custom/tu_d8/images/share_linked.png" border="0" alt="LinkedIn" width="27" height="27"><span class="a2a_label">LinkedIn</span></a><a class="a2a_button_whatsapp"><img src="/themes/custom/tu_d8/images/share_whatsapp.png" border="0" alt="WhatsApp" width="27" height="27"><span class="a2a_label">WhatsApp</span></a><a class="a2a_button_copy_link"><img src="/themes/custom/tu_d8/images/share_url.png" border="0" alt="Copy Link" width="27" height="27"><span class="a2a_label">Copy Link</span></a></span>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<button type="button" class="social-icon-cancel" data-dismiss="modal">Cancel</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="qs-world-ranking-hero mobile d-block d-md-none landing-hero" style="background-color: ">
+<div class="container container-withback">
+<div class="right-hand-side-text">
+<div class="right-top-logos">
+</div>
+<img data-src="/sites/default/files/2021-11/TUhomepage-desktop%404x.png" class="d-none d-md-block desktop lazy-image">
+<img data-src="/sites/default/files/2021-11/TUHomepage-mobile%404x.png" class="d-block d-md-none mobile lazy-image">
+</div>
+<div class="left-hand-side-text">
+<div class="_qs-ranking-title">
+<div class="_qs-class-headline _qs-class-headlineh1" style="color:">
+Discover top universities, new courses and the latest careers guidance.
+</div>
+</div>
+<a class="reg-log-popup _new_signin" id="user_register" data-toggle="modal" data-target="#user-global-reg" data-stab="#user_join_us" style="background-color: ">Sign up today</a>
+<div class="qs-videos-btn-block rank-widget-ctas">
+</div>
+</div>
+<div class="_read-more-content-js-div-1 _non_subject">
+</div>
+</div>
+</div>
+<div class="_read-more-content-js-div-1 _only_subject d-none mobile">
+<div class="container container-withback">
+</div>
+</div>
+<div class="qs-partners-section landing-page container">
+</div>
+<style>
+      @media (min-width: 576px) {
+        .hero {
+          background-image: url('/sites/default/files/2021-11/TUhomepage-desktop%404x.png')
+        }
+      }
+      @media (max-width: 575px) {
+        .hero {
+          background-image: url('/sites/default/files/2021-11/TUHomepage-mobile%404x.png')
+        }
+      }
+    </style>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout layout--onecol">
+<div class="layout__region layout__region--content">
+<div class="block block-block-content block-block-content966749e4-6ca1-4f6b-b2ef-31278774f1f2 home-search-block">
+<div class="content">
+<div class="">
+<div class="container">
+<form id="wur_search" class="open-search-overlay">
+<span><i class="fa fa-search">&nbsp;</i></span>
+<input type="text" placeholder="Search for rankings, universities, programs, tips and advice">
+<button type="button">
+<i class="fal fa-arrow-right"></i>
+</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout layout--threecol-section layout--threecol-section--33-34-33">
+<div class="layout__region layout__region--first">
+
+<div class="block block-block-content block-block-contentf023c1ba-02ed-42f9-9f25-7aea3af1b4d5">
+<div class="content">
+<div class="rank-blk">
+<div class="card University Rankings">
+<div class="d-none d-md-block b-img">
+<div class="field field--name-field-desktop-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/uni-ranking/BusinessAnalytics-yellowOval%402x_0.png" width="160" height="160" alt="" typeof="foaf:Image" />
+</div>
+</div>
+<div class="d-block d-md-none b-img">
+<div class="field field--name-field-mobile-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/uni-ranking/BusinessAnalytics-yellowOval%402x.png" width="160" height="160" alt="" typeof="foaf:Image" />
+</div>
+</div>
+<div class="card-body">
+<a class="ranklogo-desc" href="/university-rankings">
+<div class="field field--name-field-heading field--type-string field--label-hidden field__item">University Rankings </div>
+</a>
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Compare top universities from around the world by subject, destination and more.&nbsp;</p>
+</div>
+<a class="btn btn-orrange view-list-btn" href="/university-rankings" title="">See more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout__region layout__region--second">
+
+<div class="block block-block-content block-block-content022e8870-8e43-425b-b7cb-d081f821dd23">
+<div class="content">
+<div class="rank-blk">
+<div class="card Events">
+<div class="d-none d-md-block b-img">
+<div class="field field--name-field-desktop-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/uni-ranking/calendar-events-yellowOval%402x_0.png" width="160" height="160" alt="" typeof="foaf:Image" />
+</div>
+</div>
+<div class="d-block d-md-none b-img">
+<div class="field field--name-field-mobile-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/uni-ranking/calendar-events-yellowOval%402x.png" width="160" height="160" alt="" typeof="foaf:Image" />
+</div>
+</div>
+<div class="card-body">
+<a class="ranklogo-desc" href="/events">
+<div class="field field--name-field-heading field--type-string field--label-hidden field__item">Events</div>
+</a>
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>In-person and online events that bring together universities, experts and more.</p>
+</div>
+<a class="btn btn-orrange view-list-btn" href="/events" title="">Find an event for your city</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout__region layout__region--third">
+
+<div class="block block-block-content block-block-contente7533d1b-6df1-4fd4-ad70-0cab4a124e68">
+<div class="content">
+<div class="rank-blk">
+<div class="card Find a course">
+<div class="d-none d-md-block b-img">
+<div class="field field--name-field-desktop-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/uni-ranking/course-match-oval-pale-yellow%20copy%402x_0.png" width="160" height="160" alt="" typeof="foaf:Image" />
+</div>
+</div>
+<div class="d-block d-md-none b-img">
+<div class="field field--name-field-mobile-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/uni-ranking/course-match-oval-pale-yellow%20copy%402x.png" width="160" height="160" alt="" typeof="foaf:Image" />
+</div>
+</div>
+<div class="card-body">
+<a class="ranklogo-desc" href="/university-finder/student/match">
+<div class="field field--name-field-heading field--type-string field--label-hidden field__item">Find a course</div>
+</a>
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Narrow down your university search by answering a series of focused questions.&nbsp;</p>
+</div>
+<a class="btn btn-orrange view-list-btn" href="/university-finder/student/match" title="">Try our course matching tool</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout layout--threecol-section layout--threecol-section--33-34-33">
+<div class="layout__region layout__region--first">
+
+<div class="block block-block-content block-block-contentef47ca79-969d-493b-b42e-7d6d75ca038e">
+<div class="content">
+<div class="rank-blk">
+<div class="card Career guidance">
+<div class="d-none d-md-block b-img">
+<div class="field field--name-field-desktop-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/uni-ranking/Career-mortarboard-yellowOval-squiggle.png" width="128" height="128" alt="" typeof="foaf:Image" />
+</div>
+</div>
+<div class="d-block d-md-none b-img">
+<div class="field field--name-field-mobile-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/uni-ranking/Career-mortarboard-yellowOval-squiggle_0.png" width="128" height="128" alt="" typeof="foaf:Image" />
+</div>
+</div>
+<div class="card-body">
+<a class="ranklogo-desc" href="/student-info/careers-advice">
+<div class="field field--name-field-heading field--type-string field--label-hidden field__item">Career guidance</div>
+</a>
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>We’re here to help you work out the next steps to achieve your career ambitions.</p>
+</div>
+<a class="btn btn-orrange view-list-btn" href="/student-info/careers-advice" title="">See advice</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout__region layout__region--second">
+
+<div class="block block-block-content block-block-content2e76fa52-5dda-4fee-83b7-e783aeb4b7d9">
+<div class="content">
+<div class="rank-blk">
+<div class="card Study abroad">
+<div class="d-none d-md-block b-img">
+<div class="field field--name-field-desktop-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/uni-ranking/Study-destination-travel-yellowOval-squiggle_0.png" width="128" height="128" alt="" typeof="foaf:Image" />
+</div>
+</div>
+<div class="d-block d-md-none b-img">
+<div class="field field--name-field-mobile-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/uni-ranking/Study-destination-travel-yellowOval-squiggle.png" width="128" height="128" alt="" typeof="foaf:Image" />
+</div>
+</div>
+<div class="card-body">
+<a class="ranklogo-desc" href="/where-to-study/home">
+<div class="field field--name-field-heading field--type-string field--label-hidden field__item">Study abroad</div>
+</a>
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Get the latest on top student cities, tuition fees, admissions requirements and more.</p>
+</div>
+<a class="btn btn-orrange view-list-btn" href="/where-to-study/home" title="">Find my student city</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout__region layout__region--third">
+
+<div class="block block-block-content block-block-contentde94701d-864f-425c-b1bf-e488af42f784">
+<div class="content">
+<div class="rank-blk">
+<div class="card Scholarships">
+<div class="d-none d-md-block b-img">
+<div class="field field--name-field-desktop-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/uni-ranking/Scholarships-Accounting-yellowOval-squiggle_0.png" width="128" height="128" alt="" typeof="foaf:Image" />
+</div>
+</div>
+<div class="d-block d-md-none b-img">
+<div class="field field--name-field-mobile-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/uni-ranking/Scholarships-Accounting-yellowOval-squiggle.png" width="128" height="128" alt="" typeof="foaf:Image" />
+</div>
+</div>
+<div class="card-body">
+<a class="ranklogo-desc" href="https://qs.topuniversities.com/scholarships">
+<div class="field field--name-field-heading field--type-string field--label-hidden field__item">Scholarships</div>
+</a>
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Our range of worldwide scholarships – find the one to suit you.</p>
+</div>
+<a class="btn btn-orrange view-list-btn" href="https://qs.topuniversities.com/scholarships" title="">Find funding</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout layout--onecol">
+<div class="layout__region layout__region--content">
+<div class="block block-dfp block-dfp-ad6b7a9b0d-de78-49b7-ae44-36c01ab4795e associate-blk">
+<div class="content">
+<div id="js-dfp-tag-responsive_ad_1">
+<script class="dfp-ads-inview" dfp-id="js-dfp-tag-responsive_ad_1" type="cb6d8fb66398396a222dbb48-text/javascript">
+    googletag.cmd.push(function () {
+      googletag.display('js-dfp-tag-responsive_ad_1');
+    });
+  </script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout layout--onecol">
+<div class="layout__region layout__region--content">
+<div class="block block-block-content block-block-contenta73aa541-f7fa-46c1-b1c3-14e333a92efd">
+<div class="content">
+<div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Home of the QS World University Rankings, TopUniversities.com is one of the leading sources of information for prospective students from around the world. Whether you're hoping to learn more about a particular study destination, or want to compare the reputation of different universities, we can help you take the next step on your educational journey.</p>
+<p>Use our course matching tool to narrow down your study choices, or sign up for one of our worldwide in-person or virtual events and get the chance to meet representatives from the world's top universities.&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout layout--onecol">
+<div class="layout__region layout__region--content">
+<div class="block block-block-content block-block-content4c84c027-6f3d-4da7-af33-1ed876e3c9c5 profile-menu-target" id="out-now:-qs-world-university-rankings-by-region-2022" data-stickymenutitle="Out Now: QS World University Rankings by Region 2022">
+<div class="content">
+<div class="_widget-titles-home">
+<h2 class="homepage-widgets-title-main">Out Now: QS World University Rankings by Region 2022</h2>
+</div>
+<div class="_widget-descriptions-home">
+<span><p>Discover the top universities around the world with the QS World University Rankings 2022, or go in depth on a particular region with the QS World University Rankings by Region 2022.</p>
+</span>
+</div>
+<div class="qs-widget-tab-content">
+<div class="field field--name-field-tabs-data field--type-entity-reference-revisions field--label-hidden field__items">
+<div class="field__item">
+<div class="paragraph paragraph--type--homepage-widget paragraph--view-mode--default widget-layout-1+2 home_pagewidget_one_plus_two">
+
+<div class="items-group total-items-1 home_pagewidget_block_1">
+<div class="custom-card custom-card-1 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1895" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/nus_header.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/university-rankings-articles/asian-university-rankings/top-universities-asia-2021">
+<h3 class="_article_title">Top Universities in Asia in 2021</h3>
+<div class="widget_custom_text widget_paragraph">
+<p>Discover the top 10 universities in&nbsp;Asia&nbsp;this year, based on the QS&nbsp;Asia University Rankings 2021.</p>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="items-group total-items-2 home_pagewidget_block_2">
+<div class="custom-card custom-card-2 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1624" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/top_universities_in_asia_for_life_sciences_and_medicine_2.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/university-rankings-articles/asian-university-rankings/top-universities-asia-life-sciences-medicine-2014">
+<h3 class="_article_title">Top Universities in Asia for Life Sciences &amp; Medicine 2014</h3>
+<div class="widget_custom_text widget_paragraph">
+<p>Discover the top universities in Asia for life sciences and medicine, as rated by academics around the world.</p>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-3 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1815" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/Singapore%2520at%2520night1.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/university-rankings-articles/asian-university-rankings/top-10-universities-asia-engineering-technology-2013">
+<h3 class="_article_title">Top 10 Universities in Asia for Engineering &amp; Technology 2013</h3>
+<div class="widget_custom_text widget_paragraph">
+<p>Interested in studying an engineering or technology subject in Asia? Discover the 10 universities in Asia with the strongest reputations in the field.</p>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 text-center">
+<a href="https://www.topuniversities.com/regional-rankings" class="widget-learn-more">Explore the QS World University Rankings by Region 2022<i class="fas fa-long-arrow-right"></i></a>
+</div>
+</div>
+</div>
+</div>
+<div class="block block-block-content block-block-contentf9665bf1-2d0b-4b92-8f32-c1695bde6df2 profile-menu-target" id="promoted-stories" data-stickymenutitle="Promoted Stories">
+<div class="content">
+<div class="_widget-titles-home">
+<h2 class="homepage-widgets-title-main">Promoted Stories</h2>
+</div>
+<div class="qs-homepage-widget-navs">
+<div class="border-bottom">
+<a data-toggle="tab" href="javascript:void(0)" class="active" onclick="if (!window.__cfRLUnblockHandlers) return false; Drupal.behaviors.tu_d8.homewidgetstabs(this, 0)" data-cf-modified-cb6d8fb66398396a222dbb48-="">
+Most Recent
+</a>
+<a data-toggle="tab" href="javascript:void(0)" onclick="if (!window.__cfRLUnblockHandlers) return false; Drupal.behaviors.tu_d8.homewidgetstabs(this, 1)" data-cf-modified-cb6d8fb66398396a222dbb48-="">
+Most Viewed
+</a>
+<a data-toggle="tab" href="javascript:void(0)" onclick="if (!window.__cfRLUnblockHandlers) return false; Drupal.behaviors.tu_d8.homewidgetstabs(this, 2)" data-cf-modified-cb6d8fb66398396a222dbb48-="">
+Most Shared
+</a>
+</div>
+</div>
+<div class="qs-widget-tab-content">
+<div class="field field--name-field-tabs-data field--type-entity-reference-revisions field--label-hidden field__items">
+<div class="field__item">
+<div class="paragraph paragraph--type--homepage-widget paragraph--view-mode--default widget-layout-1+4 home_pagewidget_one_plus_four">
+<div class="items-group total-items-1 home_pagewidget_block_1">
+<div class="custom-card custom-card-1 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1501" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/istock-1063604796.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/choosing-university/character-strengths-can-help-boost-productivity-wellbeing">
+<h3 class="_article_title">The Character Strengths That Can Help Boost Productivity and Wellbeing</h3>
+<div class="widget_custom_text widget_paragraph">
+<p>Ever thought about your character strengths and how they can have an impact on your productivity and wellbeing at work, in the classroom and even, at home? Find out more here.</p>
+</div>
+ </a>
+</div>
+</div>
+</div>
+</div>
+<div class="items-group total-items-4 home_pagewidget_block_4">
+<div class="custom-card custom-card-2 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1919" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/tecmilenio.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/distance-learning/online-learning-good-face-face-learning">
+<h3 class="_article_title">Is Online Learning as Good as Face-to-Face Learning?</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-3 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1783" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/istock-179243711.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/courses/international-relationsstudiesaffairs/5-reasons-why-you-should-study-international-relations-masters">
+<h3 class="_article_title">5 Reasons Why You Should Study an International Relations Master’s</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-4 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1983" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/eu_1_1.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/careers-advice/9-skills-youll-need-succeed-post-coronavirus-business-world">
+<h3 class="_article_title">9 Skills You&#039;ll Need to Succeed In a Post-Coronavirus Business World</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-5 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1910" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/embed-carousel/NPU%20-%20LI%20-%201.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/careers-advice-articles/9-careers-you-can-have-degree-aeronautical-engineering">
+<h3 class="_article_title">9 careers you can have with a degree in aeronautical engineering</h3>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field__item">
+<div class="paragraph paragraph--type--homepage-widget paragraph--view-mode--default widget-layout-1+4 home_pagewidget_one_plus_four">
+<div class="items-group total-items-1 home_pagewidget_block_1">
+<div class="custom-card custom-card-1 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1778" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/eu_1_1.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/careers-advice/9-skills-youll-need-succeed-post-coronavirus-business-world">
+<h3 class="_article_title">9 Skills You&#039;ll Need to Succeed In a Post-Coronavirus Business World</h3>
+<div class="widget_custom_text widget_paragraph">
+<p>Wondering how you can stand out from the job market crowd in the ‘new normal’? Here are nine skills that will help you do just that.</p>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="items-group total-items-4 home_pagewidget_block_4">
+<div class="custom-card custom-card-2 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1742" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/istock-700596982.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/careers-advice/future-skills-youll-need-your-career-2030">
+<h3 class="_article_title">Future Skills You’ll Need In Your Career By 2030</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-3 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1713" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/istock-179243711.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/courses/international-relationsstudiesaffairs/5-reasons-why-you-should-study-international-relations-masters">
+<h3 class="_article_title">5 Reasons Why You Should Study an International Relations Master’s</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-4 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1871" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/tecmilenio_1.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/choosing-university/7-ways-university-helping-students-find-their-purpose">
+<h3 class="_article_title">7 Ways This University Is Helping Students Find Their Purpose</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-5 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1763" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/wits_2.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/careers-advice/top-5-tech-careers-future">
+<h3 class="_article_title">Top 5 Tech Careers Of The Future</h3>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field__item">
+<div class="paragraph paragraph--type--homepage-widget paragraph--view-mode--default widget-layout-1+4 home_pagewidget_one_plus_four">
+<div class="items-group total-items-1 home_pagewidget_block_1">
+<div class="custom-card custom-card-1 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1723" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/eu_1_1.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/careers-advice/9-skills-youll-need-succeed-post-coronavirus-business-world">
+<h3 class="_article_title">9 Skills You&#039;ll Need to Succeed In a Post-Coronavirus Business World</h3>
+<div class="widget_custom_text widget_paragraph">
+<p>Wondering how you can stand out from the job market crowd in the ‘new normal’? Here are nine skills that will help you do just that.</p>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="items-group total-items-4 home_pagewidget_block_4">
+<div class="custom-card custom-card-2 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1997" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/istock-700596982.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/careers-advice/future-skills-youll-need-your-career-2030">
+<h3 class="_article_title">Future Skills You’ll Need In Your Career By 2030</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-3 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1878" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/istock-179243711.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/courses/international-relationsstudiesaffairs/5-reasons-why-you-should-study-international-relations-masters">
+<h3 class="_article_title">5 Reasons Why You Should Study an International Relations Master’s</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-4 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1599" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+ <div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/tecmilenio_1.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/choosing-university/7-ways-university-helping-students-find-their-purpose">
+<h3 class="_article_title">7 Ways This University Is Helping Students Find Their Purpose</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-5 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1641" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/eun.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/studying-abroad/6-reasons-go-student-exchange-program">
+<h3 class="_article_title">6 reasons to go on a student exchange programme</h3>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block block-dfp block-dfp-ad1da40468-963d-4930-a56d-693b7bc7d0d6">
+<div class="content">
+<div id="js-dfp-tag-responsive_ad_2">
+<script class="dfp-ads-inview" dfp-id="js-dfp-tag-responsive_ad_2" type="cb6d8fb66398396a222dbb48-text/javascript">
+    googletag.cmd.push(function () {
+      googletag.display('js-dfp-tag-responsive_ad_2');
+    });
+  </script>
+</div>
+</div>
+</div>
+<div class="block block-block-content block-block-contenta3613160-7704-43b2-8642-89fee60e47b0 profile-menu-target" id="discover" data-stickymenutitle="Discover">
+<div class="content">
+<div class="_widget-titles-home">
+<h2 class="homepage-widgets-title-main">Discover</h2>
+</div>
+<div class="_widget-descriptions-home">
+<span><p>Find out where to&nbsp;study abroad, which course is the best match for your&nbsp;ambitions and&nbsp;learn all you need to know about student life at the world's top unis.</p>
+</span>
+</div>
+<div class="qs-widget-tab-content">
+<div class="field field--name-field-tabs-data field--type-entity-reference-revisions field--label-hidden field__items">
+<div class="field__item">
+<div class="paragraph paragraph--type--homepage-widget paragraph--view-mode--default widget-layout-1+4 home_pagewidget_one_plus_four">
+<div class="items-group total-items-1 home_pagewidget_block_1">
+<div class="custom-card custom-card-1 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1540" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/embed-carousel/young-female-blue-and-white-work-coat-is-using-plier-to-assemble-picture-id1145276242.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/courses/engineering/computer-science-engineering-vs-electrical-electronics-engineering-which-degree-right-you">
+<h3 class="_article_title">Computer science engineering vs. electrical and electronics engineering: Which degree is right for you? </h3>
+<div class="widget_custom_text widget_paragraph">
+<p>Trying to choose between computer science engineering and electrical and electronics engineering? To make your decision easier, we’ve compared the two&nbsp;degrees.</p>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="items-group total-items-4 home_pagewidget_block_4">
+<div class="custom-card custom-card-2 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1758" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/embed-carousel/focused-young-female-artist-drawing-sketches-using-colored-pencils-picture-id905527506.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/courses/art-design/which-design-degree-should-you-study">
+<h3 class="_article_title">Which Design Degree Should You Study?</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-3 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1644" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/embed-carousel/this-team-wont-give-up-on-your-health-picture-id1144971911.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/studying-abroad-articles/why-i-decided-study-medicine-italy">
+<h3 class="_article_title">Why I Decided to Study Medicine in Italy </h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-4 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1680" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/embed-carousel/spanish-cities-the-sacred-barcelona-family-picture-id1301579230.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/studying-abroad-articles/5-reasons-why-studying-masters-degree-barcelona-will-change-your-life">
+<h3 class="_article_title">5 Reasons Why Studying a Master&#039;s Degree in Barcelona Will Change Your Life</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-5 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1892" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/embed-carousel/UoH%20-%20LI%20-%202%20-%201.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/where-study/asia/saudi-arabia/4-reasons-study-renewable-energy-engineering-saudi-arabia">
+<h3 class="_article_title">4 reasons to study renewable energy engineering in Saudi Arabia</h3>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 text-center">
+<a href="/where-to-study/home" class="widget-learn-more">Explore our study destination guides<i class="fas fa-long-arrow-right"></i></a>
+</div>
+</div>
+</div>
+</div>
+<div class="block block-block-content block-block-content152b18f9-1053-4147-82dc-19c6762a272b profile-menu-target" id="prepare" data-stickymenutitle="Prepare">
+<div class="content">
+<div class="_widget-titles-home">
+<h2 class="homepage-widgets-title-main">Prepare</h2>
+</div>
+<div class="_widget-descriptions-home">
+<span><p>From&nbsp;funding your studies to preparing for admissions exams&nbsp;or applying for student visas - the countdown to your study abroad adventure starts here!&nbsp;</p>
+</span>
+</div>
+<div class="qs-widget-tab-content">
+<div class="field field--name-field-tabs-data field--type-entity-reference-revisions field--label-hidden field__items">
+<div class="field__item">
+<div class="paragraph paragraph--type--homepage-widget paragraph--view-mode--default widget-layout-1+4 home_pagewidget_one_plus_four">
+<div class="items-group total-items-1 home_pagewidget_block_1">
+<div class="custom-card custom-card-1 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1918" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/embed-carousel/happy-muslim-girl-holding-coffee-to-go-going-to-college-picture-id1256492437%20%281%29.jpg">
+ <div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/studying-abroad-articles/4-benefits-studying-arabic-taught-masters">
+<h3 class="_article_title">4 benefits of studying an Arabic-taught master’s </h3>
+<div class="widget_custom_text widget_paragraph">
+<p>You don’t have to be a native Arabic speaker to study an Arabic-taught master’s. Read on to discover some of the exciting advantages of studying an Arabic-taught master’s degree.&nbsp;</p>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="items-group total-items-4 home_pagewidget_block_4">
+<div class="custom-card custom-card-2 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1683" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/duolingo.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/admissions-advice/duolingo-english-test-us-college-admissions-all-you-need-know">
+<h3 class="_article_title">Duolingo English Test and US College Admissions: All You Need to Know</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-3 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1617" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/embed-carousel/USDP%20-%20LI%20-%202.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/where-study/europe/italy/4-things-you-need-know-about-studying-abroad-italy">
+<h3 class="_article_title">4 things you need to know about studying abroad in Italy</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-4 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1728" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/young-female-student-sitting-on-sofa-using-laptop-when-studying-picture-id1156480842.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/choosing-university/what-consider-when-comparing-universities-online">
+<h3 class="_article_title">What to Consider When Comparing Universities Online</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-5 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1612" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/embed-carousel/MBS%203.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/admissions-advice/6-tips-help-you-get-business-school-masters-france">
+<h3 class="_article_title">6 tips to help you get accepted onto a master&#039;s in France</h3>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block block-dfp block-dfp-adbe3560e9-c099-4449-9c71-db8cda847a1d">
+<div class="content">
+<div id="js-dfp-tag-responsive_ad_3">
+<script class="dfp-ads-inview" dfp-id="js-dfp-tag-responsive_ad_3" type="cb6d8fb66398396a222dbb48-text/javascript">
+    googletag.cmd.push(function () {
+      googletag.display('js-dfp-tag-responsive_ad_3');
+    });
+  </script>
+</div>
+</div>
+</div>
+<div class="block block-block-content block-block-content60dac085-8b83-4cda-8eb8-0c7cbd1fe74e profile-menu-target" id="apply" data-stickymenutitle="Apply">
+<div class="content">
+<div class="_widget-titles-home">
+<h2 class="homepage-widgets-title-main">Apply</h2>
+</div>
+<div class="_widget-descriptions-home">
+<span><p>Ready to apply? Use our free resources to guide you through&nbsp;each stage of the process, from writing your application to the admissions interview.</p>
+</span>
+</div>
+<div class="qs-widget-tab-content">
+<div class="field field--name-field-tabs-data field--type-entity-reference-revisions field--label-hidden field__items">
+<div class="field__item">
+<div class="paragraph paragraph--type--homepage-widget paragraph--view-mode--default widget-layout-1+4 home_pagewidget_one_plus_four">
+<div class="items-group total-items-1 home_pagewidget_block_1">
+<div class="custom-card custom-card-1 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1784" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/moscow_city_scape.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/student-stories/nust-misis-masters-students-talk-about-admissions">
+<h3 class="_article_title">NUST MISIS Master&#039;s Students Talk About Admissions</h3>
+ <div class="widget_custom_text widget_paragraph">
+<p>NUST MISIS master's students talk about the admissions process during the coronavirus pandemic.</p>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="items-group total-items-4 home_pagewidget_block_4">
+<div class="custom-card custom-card-2 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1537" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/defer_uni_canada.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/admissions-advice/how-defer-your-university-offer-canada">
+<h3 class="_article_title">How to Defer Your University Offer in Canada</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-3 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1638" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/executive-having-a-video-call-in-a-coffee-shop-picture-id837356866.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/admissions-advice/university-admissions-covid-19-coronavirus">
+<h3 class="_article_title">University Admissions: How Will Covid-19 Affect My Application? </h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-4 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1861" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/istock-1128725181.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/university-news/uk-government-cap-university-admissions-will-you-be-affected">
+<h3 class="_article_title">UK Government to Cap University Admissions: Will You Be Affected?</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-5 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1959" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/business-woman-wearing-headphones-watching-video-webinar-write-notes-picture-id1150384618.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/admissions-advice/gre-home-frequently-asked-questions">
+<h3 class="_article_title">GRE at Home: Frequently Asked Questions</h3>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block block-block-content block-block-contentb2216dbb-82c0-43ca-99cc-5b8aa2142098 profile-menu-target" id="careers" data-stickymenutitle="Careers">
+<div class="content">
+<div class="_widget-titles-home">
+<h2 class="homepage-widgets-title-main">Careers</h2>
+</div>
+<div class="_widget-descriptions-home">
+<span><p>It doesn’t stop with finding your ideal course. Learn more about your career possibilities&nbsp;and be inspired by the stories of recent graduates in your field.</p>
+</span>
+</div>
+<div class="qs-widget-tab-content">
+<div class="field field--name-field-tabs-data field--type-entity-reference-revisions field--label-hidden field__items">
+<div class="field__item">
+<div class="paragraph paragraph--type--homepage-widget paragraph--view-mode--default widget-layout-1+4 home_pagewidget_one_plus_four">
+<div class="items-group total-items-1 home_pagewidget_block_1">
+<div class="custom-card custom-card-1 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1521" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/embed-carousel/Kogod.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/careers-advice/how-degree-sustainability-management-launched-my-career">
+<h3 class="_article_title">How a degree in sustainability management launched my career </h3>
+<div class="widget_custom_text widget_paragraph">
+<p>How could a degree in sustainability management help you?&nbsp;TopUniversities&nbsp;spoke to Josh Kaplan,&nbsp;a manager with&nbsp;the&nbsp;education program at Renewable Energy Buyers Alliance (REBA), to find out how the master’s degree helped him in his&nbsp;sustainability&nbsp;career.&nbsp;</p>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="items-group total-items-4 home_pagewidget_block_4">
+<div class="custom-card custom-card-2 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1528" value="">
+ <div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/embed-carousel/young-businesswoman-using-digital-tablet-indoors-picture-id1172803063.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/careers-advice-articles/5-ways-hospitality-management-degree-can-help-you-make-impact-business">
+<h3 class="_article_title">5 Ways a Hospitality Management Degree can Help you Make an Impact in Business </h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-3 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1532" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/embed-carousel/Salwa%20Khalifa%20Uni.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/careers-advice-articles/meet-computer-electrical-engineering-grad-behind-award-winning-tech-start">
+<h3 class="_article_title">Meet the computer and electrical engineering grad behind an award-winning tech start-up </h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-4 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1680" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/embed-carousel/NPU%20-%20LI%20-%201.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/careers-advice-articles/9-careers-you-can-have-degree-aeronautical-engineering">
+<h3 class="_article_title">9 careers you can have with a degree in aeronautical engineering</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-5 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1966" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="recommended">Sponsored</div>
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/embed-carousel/group-of-college-student-friends-meeting-and-talking-in-busy-communal-picture-id1218975473.jpg">
+ <div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/student-info/careers-advice/5-ways-improve-your-employability-outside-your-degree">
+<h3 class="_article_title">5 ways to improve your employability outside of your degree </h3>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="block block-block-content block-block-content7ddb6585-728b-4398-b866-ec306f3256ac profile-menu-target" id="student-ambassadors" data-stickymenutitle="Student Ambassadors">
+<div class="content">
+<div class="_widget-titles-home">
+<h2 class="homepage-widgets-title-main">Student Ambassadors</h2>
+</div>
+<div class="_widget-descriptions-home">
+<span><p>Would you like to write for us about your university experience? Join us and become a QS Student Ambassador, and share your story with the world.</p>
+</span>
+</div>
+<div class="qs-widget-tab-content">
+<div class="field field--name-field-tabs-data field--type-entity-reference-revisions field--label-hidden field__items">
+<div class="field__item">
+<div class="paragraph paragraph--type--homepage-widget paragraph--view-mode--default widget-layout-1+4 home_pagewidget_one_plus_four">
+<div class="items-group total-items-1 home_pagewidget_block_1">
+<div class="custom-card custom-card-1 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1524" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/embed-carousel/QSlead.jpeg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/write-for-us">
+<h3 class="_article_title">Write for us: Become a QS Student Ambassador</h3>
+<div class="widget_custom_text widget_paragraph">
+<p>Join our team of student ambassadors&nbsp;and share your&nbsp;experiences with our readers around the world.</p>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="items-group total-items-4 home_pagewidget_block_4">
+<div class="custom-card custom-card-2 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1878" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/sydneystudy4lead.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/where-to-study/oceania/australia/sydney/best-study-spots-sydney">
+<h3 class="_article_title">Best Study Spots in Sydney</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-3 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1571" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/istock-507296874.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/where-to-study/north-america/united-states/five-reasons-visit-la-while-studying-us">
+<h3 class="_article_title">Five Reasons to Visit LA While Studying in the US</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-4 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1772" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/lgbt.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/where-to-study/europe/united-kingdom/londons-top-lgbtq-clubs-hangouts">
+<h3 class="_article_title">London&#039;s Top LGBTQ+ Clubs and Hangouts</h3>
+</a>
+</div>
+</div>
+</div>
+<div class="custom-card custom-card-5 home-widget-content-block">
+<div class="wrap-inside">
+<input type="hidden" id="recommended-slider-images-videos-1850" value="">
+<div class="widget_block_homepage width-350px display-inline">
+<div class="_gallery-for-univ width-100p text-center" data-background-image-url="https://www.topuniversities.com/sites/default/files/articles/lead-images/melbourne-cafes.jpg">
+<div class="card-img-overlay-new-remove width-100p">
+</div>
+</div>
+</div>
+<div class="_widget-content">
+<a href="/where-to-study/oceania/australia/best-cafes-melbourne">
+<h3 class="_article_title">Best Cafés in Melbourne</h3>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-12 text-center">
+<a href="/write-for-us" class="widget-learn-more">Learn about becoming a QS Student Ambassador<i class="fas fa-long-arrow-right"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout layout--qsonecol">
+</div>
+</div>
+</article>
+</div>
+</div>
+</section>
+<div class="modal fade _article_popup_body _article_modal_wrap" id="_article_popup">
+<div class="modal-dialog modal-xl">
+<div class="modal-content _article_popup_content trans">
+<div class="modal-body _article_popup_body">
+<div class="_article_popup_title">
+<span class="_youku_title"></span>
+ <span class="float-right">
+<a class="_article_popup_close" data-toggle="modal" data-target="#_article_popup"><i class="fal fa-times"></i></a>
+</span>
+</div>
+<div id="_media_player" class="_media_player_container">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="block-universityapplyfooterblock" class="block block-qs-uni-prog-directory block-qs-uni-program-footer">
+<div class="content">
+<section class="_showin_iframes d-none">
+<div class="container">
+<div id="compare_universities_data">
+</div>
+</div>
+<input type="hidden" id="pagenumberidshortlist" value="1">
+<input type="hidden" id="perpageshortlist" value="10">
+<input type="hidden" id="shortlistdatatype" value="university">
+<script id="shortlistmodalheader" type="text/html">
+
+  <div class=" _headderdivlisting wrap_head _makeit_full_width grey checkwhenshortlisthidden_js">
+    <div class="header_wrap shortlist_page">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="heading fontweight500 shortlist_new">
+              <p class="title-sub">My Shortlist Summary</p>
+            </div>
+            <h1 class="heading fontweight500 shortlist_new">
+
+              <span class="commonheaderdisplayshortlist hide_in_mob_inline"></span>
+            </h1>
+
+            <span onclick="Drupal.behaviors.tu_d8.getCompareContentShowmodal(this, 'close')" class="pull-right _rightclose">
+                <i class="fal fa-times"></i>
+              </span>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="_headderdivlisting wrap_head _makeit_full_width grey fixedonshortlist_js fixedonshortlist_css d-none">
+    <div class="header_wrap shortlist_page">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+
+            <div class="heading fontweight500 shortlist_new after">
+              <p class="title-sub">My Shortlist Summary</p>
+            </div>
+
+            <h1 class="heading fontweight500 shortlist_new">
+            <span class="commonheaderdisplayshortlist hide_in_mob_inline"></span>
+            <span onclick="Drupal.behaviors.tu_d8.getCompareContentShowmodal(this, 'close')" class="pull-right _rightclose new">
+                <i class="fal fa-times"></i>
+              </span>
+            </h1>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row hide_in_desktop">
+      <div class="col-12">
+        <h2 class="shortlist_text_modal"><span class="commonheaderdisplayshortlist"></span></h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="quik-tabs">
+          <ul class="nav nav-pills quicktabs-tabs width50pformobile" role="tablist">
+            <li class="nav-item" onclick="Drupal.behaviors.tu_d8.getAllShortlistedData('university')">
+              <a href="javascript:void(0)" class="nav-link link_shortlist_js link_shortlist_js_university active add-height">
+                Universities
+              </a>
+            </li>
+            <li class="nav-item" onclick="Drupal.behaviors.tu_d8.getAllShortlistedData('program')">
+              <a href="javascript:void(0)" class="nav-link link_shortlist_js link_shortlist_js_program add-height">
+                Programs
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="row margin-top-40px">
+
+      <div class="col-lg-4 leftrightmobilepadding countiszerosearchidejs">
+         <input type="hidden" id="shortlisted_university_nid" value="">
+         <div class="qs-search-box select_uni_field">
+            <div class="_mt__qs_input_style_1 margin-bottom-20px inputshort_pro_js">
+               <input id="shortlisted_university" child-options-id="1" class="form-control" name="shortlisted_university" autocomplete="off" required="required">
+               <span class="_clear-all-shortlist-icon _clear-all-shortlist-icon_js d-none" onclick="Drupal.behaviors.tu_d8.clearShortlistData(this)">
+               <i class="fal fa-times"></i>
+               </span>
+               <label>Select shortlisted university</label>
+               <div id="show-options-1" class="list-of-options list-of-options_js d-none">
+
+               </div>
+            </div>
+         </div>
+      </div>
+
+      <div  id="search-vary-sizes" class="col-lg-12 leftrightmobilepadding">
+        <div class="university_search _closeiconsinput">
+          <input
+                id="_shortlistinput_search"
+                type="text"
+                 class="form-control _shortlistinput heightnew48px padding-left-20px"
+                 placeholder="Search shortlisted university"
+                 >
+          <span class="_postion_Search_new _postion_Search_new_js_shortlist" onclick="Drupal.behaviors.tu_d8.getshortlistinModal();">
+            <i class="fal fa-search"></i>
+          </span>
+           <i class="fal fa-times _shortlistx new d-none" onclick="Drupal.behaviors.tu_d8.getshortlistinModal('clearinput');"></i>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="row no_resultss no_resultss_js_shortlist d-none paddingtop10">
+      <div class="row">
+        <div class="col-lg-12">
+        <div class="_qs-ranking-logo _null-shortlist-image">
+          <img src="/themes/custom/tu_d8/images/null-shortlist.png">
+        </div>
+        <div class="_nor_esultsShortlist">
+          <div class="_user_searchupdate_js_shortlist_univ _user_searchupdate_titlename">
+            <p><i class="fal fa-info-circle"></i> <b></b> </p>
+          </div>
+          <p class="_greywithopacity"> Click on " <span><i class="fal fa-heart"></i></span>Shortlist" to get started!!</p>
+        </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row no_resultss_js_shortlist d-none">
+      <div class="col-lg-12">
+        <h2 class="desktop_div _title_for_noresults _title_for_noresults_js"></h2>
+        <h2 class="mobile_div _title_for_noresults _title_for_noresults_js"></h2>
+      </div>
+    </div>
+
+    <div class="row _loadingforUniv_js_shortlist">
+      <div class="col-lg-12">
+        <div class="text-center">
+          <div class="loaderforuniv"></div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div id="univListingCards_shortlist"></div>
+
+
+    <div id="resultstextpageshortlist" class="row d-none">
+      <div class="col-lg-5">
+        <div class="inline-block pull-left margin-right-px">
+          <p class="_paginationtext">Results per page:</p>
+        </div>
+        <div class="ui fluid  selection dropdown _semantic_select sort_by_dropdown perpage_dropdown_js_shortlist inline-block minwidth84 pull-left margin-right-px">
+          <input id="perpagedata" type="hidden" name="perpagedata" value="10">
+          <i class="dropdown icon"></i>
+          <div class="default text"></div>
+          <div class="menu">
+            <div class="item active selected" data-value="10">10</div>
+            <div class="item" data-value="25">25</div>
+            <div class="item" data-value="50">50</div>
+            <div class="item" data-value="100">100</div>
+          </div>
+        </div>
+        <div class="inline-block margin-right-px pull-left">
+          <p class="_paginationtext _perpagejstext"><span id="_outoftotalcounts_shortlist">1-10</span> of <span id="_totalcountresults_shortlist">1000</span></p>
+        </div>
+      </div>
+
+      <div class="col-lg-7">
+        <div class="inline-block100">
+          <ul id="alt-style-pagination-shortlist" class="pagination simple-pagination simple-pagination_right  _qs_stylpaginations">
+            <li class="disabled"><span class="current prev"><span aria-hidden="true"><i class="fal fa-chevron-left"></i></span></span></li>
+            <li class="active"><span class="current">1</span></li>
+            <li><a href="#page-2" class="page-link">2</a></li>
+            <li><a href="#page-3" class="page-link">3</a></li>
+            <li class=""><span class="ellipse clickable">…</span></li>
+            <li><a href="#page-20" class="page-link">20</a></li>
+            <li><a href="#page-2" class="page-link next"><span aria-hidden="true"><i class="fal fa-chevron-right"></i></span></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</script>
+
+<script type="text/html" id="_programCardTemplate">
+   <div class="row">
+      <div class="col-lg-12">
+         <div class="programWrap">
+            <div class="card">
+               <div class="card-wrap apply-wrapper-::nid::">
+                  <div class="programeTitle apply_univ_name">
+                     <h2><a title="::program_name::" href="::program_url::">::program_name::</a></h2>
+                  </div>
+                  <div class="left_img">
+                     <a title="::program_name::" href="::program_url::">
+                        <div class="img-wrap overlay_dark" style="background-image: url('::backgroundimg::')">
+                           <div class="card-img-overlay">
+                              <div class="recommended ::recommended_class::">Sponsored</div>
+                              <div class="def-img">
+                                <div class="gallery_icn d-none  ::galleryVisibleClass_image::" onclick="Drupal.behaviors.tu_d8.openGallerywithID('::apidatatype::', ::nid::, 'image')">
+                                <a href="javascript:void(0)"><i class="far fa-images"></i></a>
+                                </div>
+                                <div class="video_ply ::galleryVisibleClass_video::" onclick="Drupal.behaviors.tu_d8.openGallerywithID('::apidatatype::', ::nid::, 'video')">
+                                  <a href="javascript:void(0)"><i class="fas fa-play"></i></a>
+                                </div>
+                              </div>
+                           </div>
+                        </div>
+                     </a>
+                  </div>
+                  <div class="card-body">
+                     <div class="programeTitle mobileOnly">
+                        <h2><a title="::program_name::" href="::program_url::">::program_name::</a></h2>
+                     </div>
+                     <div class="uni-det">
+                        <h2><a href="::uni_url::" title="::uni_name::"><span><img class="pro-logo" src="::university_logo::"></span></a>
+                        <p title="::uni_name::" class="univ-title"><a href="::uni_url::">::uni_name::</a></p>
+                        </h2>
+                        <div class="location ::hideifnolocation::">
+                           <i class="fal fa-map-marker-alt"></i>
+                           ::region_campus_name:: ::regionlocations::
+                            
+                            <a href="javascript:void(0)"  class="_dropdownshowhover _dropdownshowhover_js" onclick="Drupal.behaviors.tu_d8.getmarkerposition(this);">
+                              ::regionCounters::
+                            <span class="_makedropdownBlack _mobposjs">
+                              <i class="fas fa-caret-up"></i>
+                              <span class="item">::regionlocations_full::</span>
+                            </span>
+                            </a>
+                        </div>
+
+
+
+                     </div>
+                     <div class="uni_list_itm ::unilistdnone::">
+                        <ul>
+                           <li class="uni_ranking ::rankdataDnone::">
+                              <div class="rnk-detle">::qswurtext::</div>
+                              <div class="cont"><i class="fal fa-trophy"></i>::rankdata::</div>
+                           </li>
+                           <li class="uni_str ::qsStarsDnone::">
+                              <div class="rnk-detle">QS Stars</div>
+                              <div class="cont"><i class="fal fa-star"></i>::qsStars::</div>
+                           </li>
+                           <li class="uni_guage d-none">
+                              <div class="rnk-detle">QS I-GAUGE</div>
+                              <div class="cont"><i class="fal fa-medal"></i><img class="pro-logo" src="/themes/custom/tu_d8/images/diamond2.svg"></div>
+                           </li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+               <div class="uni-info ::DataElementClasshideshow::">
+                  <ul>::DataElement::</ul>
+               </div>
+               <div class="actionButtons">
+                  <div class="left">::button_type::</div>
+                  <div class="right">
+                     <div class="">
+                        <a href="javascript:void(0)" class="compare _globCompProg_js _globcompare_programCookie_js_::nid:: ::is_addedCompare::" progoruniv="prog" onclick="Drupal.behaviors.tu_d8._addprogramCompare(this, ::nid::)">
+                           <span class="two-square-icon">
+                              <i class="fal fa-plus-square"></i>
+                           </span>
+                           <span class="d-none d-md-block">Compare</span>
+                        </a>
+                     </div>
+                     <div class="shortlist_div">
+                        <a href="javascript:void(0)" class="wishlist _directorypage shortlistnonloggedglobaljs _shortlist_nid_::nid:: ::is_addedShortlist:: " nid="::nid::"  progoruniv="prog" onclick="Drupal.behaviors.tu_d8._adduniversityShortlist(this, ::nid::, 'program')">
+                           <i class="fa fa-heart" aria-hidden="true"></i>
+                           <i class="fal fa-heart" aria-hidden="true"></i>
+                           <span class="d-none d-md-block _addShortText">::isaddedShortlistText::</span>
+                        </a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+</script>
+
+<script type="text/html" id="_universityCardTemplate">
+  <div class="row">
+  <div class="university-wrap col-lg-12">
+        <div class="card">
+          <div class="card-wrap">
+            <div class="left_img">
+                            <div class="img-wrap overlay_dark " style="background-image: url('::backgroundimg::')">
+                    <div class="card-img-overlay">
+                        <div class="recommended  ::recommended_class:: ">Sponsored</div>
+                      <div class="def-img">
+                          <div class="gallery_icn d-none  ::galleryVisibleClass_image::" onclick="Drupal.behaviors.tu_d8.openGallerywithID('::apidatatype::', ::nid::, 'image')">
+                          <a href="javascript:void(0)"><i class="far fa-images"></i></a>
+                          </div>
+                          <div class="video_ply ::galleryVisibleClass_video::" onclick="Drupal.behaviors.tu_d8.openGallerywithID('::apidatatype::', ::nid::, 'video')">
+                          <a href="javascript:void(0)"><i class="fas fa-play"></i></a>
+                        </div>
+                      </div>
+              </div>
+            </div>
+
+            </div>
+            <div class="card-body">
+              <div class="uni-det">
+                <h2>
+                  <a title="::university_name::" href="::university_urlHTML::"><span><img class="pro-logo" src="::university_logo::"></span></a>
+                  <a title="::university_name::" href="::university_urlHTML::">
+                    <span class="bold-text">::university_name::</span>
+                  </a>
+                </h2>
+                <div class="location ::hideifnolocation::">
+                  <i class="fal fa-map-marker-alt"></i>::region_campus_name:: ::regionlocations::
+                  <!-- <text class="_full_edition_ d-none">::regionlocations_full::</text> -->
+                  <!-- <span title="::regionlocations_full::"> ::regionCounters::</span> -->
+                  <a href="javascript:void(0)"  class="_dropdownshowhover _dropdownshowhover_js" onclick="Drupal.behaviors.tu_d8.getmarkerposition(this);">
+                    ::regionCounters::
+                   <span class="_makedropdownBlack _mobposjs">
+                    <i class="fas fa-caret-up"></i>
+                    <span class="item">::regionlocations_full::</span>
+                  </span>
+                  </a>
+                </div>
+                <h5 class="view_pgms ::viewprogramsDnone::">
+                    <a href="/::program_urlHTML::">
+                       <span>View Programs</span>
+                       <i class="fal fa-angle-right"></i>
+                    </a>
+                </h5>
+
+<!-- <h5 class="view_pgms ::shortlisted_counterDnone::"
+    onclick="Drupal.behaviors.tu_d8.getCompareContentShowmodal(this, '', 'shortlist', ::nid::, '::university_name::')">
+    <a href="javascript:void(0)"
+    onclick="Drupal.behaviors.tu_d8.getCompareContentShowmodal(this, '', 'shortlist', ::nid::, '::university_name::')">
+              <span>View Programs</span>
+       <i class="fal fa-angle-right"></i>
+    </a>
+</h5> -->
+
+              </div>
+              <div class="uni_list_itm ::unilistdnone::">
+                 <ul>
+                  <li class="uni_ranking ::rankdataDnone::">
+                    <div class="rnk-detle">::qswurtext::</div>
+                    <div class="cont"><i class="fal fa-trophy"></i>::rankdata::</div>
+                  </li>
+                  <li class="uni_str ::qsStarsDnone:: ">
+                    <div class="rnk-detle">QS Stars</div>
+                    <div class="cont"><i class="fal fa-star"></i>::qsStars::</div>
+                  </li>
+                  <li class="uni_guage d-none">
+                    <div class="rnk-detle">QS I-GAUGE</div>
+                    <div class="cont"><i class="fal fa-medal"></i><img class="pro-logo" src="/themes/custom/tu_d8/images/diamond2.svg"></div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="uni-info ::DataElementClasshideshow::">
+              <ul>::DataElement::</ul>
+          </div>
+          <div class="actionButtons">
+            <div class="left">
+              ::button_type::
+              <span class="_smalltextapply"  onclick='Drupal.behaviors.tu_d8.getAllShortlistedData("program", ::nid::, "::university_name::")'>::shortlisted_program_count::</span>
+            </div>
+            <div class="right">
+              <div class="">
+                <a href="javascript:void(0)" class="compare _globCompUniv_js _globcompare_universityCookie_js_::nid::  ::is_addedCompare::" progoruniv="univ" onclick="Drupal.behaviors.tu_d8._adduniversityCompare(this, ::nid::)">
+                  <span class="two-square-icon"><i class="fal fa-plus-square"></i></span>
+                  <span class="d-none d-md-block">Compare</span>
+                 </a>
+              </div>
+              <div class="shortlist_div">
+                <a  class="wishlist _directorypage shortlistnonloggedglobaljs  ::is_addedShortlist:: _shortlist_nid_::nid::" progoruniv="univ"  nid="::nid::" onclick="Drupal.behaviors.tu_d8._adduniversityShortlist(this, ::nid::, 'university')">
+                  <i class="fa fa-heart" aria-hidden="true"></i>
+                  <i class="fal fa-heart" aria-hidden="true"></i>
+                  <span class="d-none d-md-block _addShortText">::isaddedShortlistText::</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</script>
+</section>
+<input type="hidden" id="g8statusGlobal" value="0" />
+<input type="hidden" id="crm_source_data" value="TOPUNI" />
+<input type="hidden" id="universityShortlistCountGlobal" value="0" />
+<input type="hidden" id="programShortlistCountGlobal" value="0" />
+<input type="hidden" id="programAppliedCountGlobal" value="0" />
+<input type="hidden" id="documentrefer" value="" />
+<div id="_errordivCompare" class="_cookies_limitText">
+<div class="_erromsgdiv">
+<span></span> <i class="fal fa-times-circle pull-right" onclick="if (!window.__cfRLUnblockHandlers) return false; Drupal.behaviors.tu_d8.hidediv('hide')" data-cf-modified-cb6d8fb66398396a222dbb48-=""></i>
+</div>
+</div>
+<div id="bottomApplyfooterdiv" class="_bottom_apply_short _makeit_full_width fixedpos d-none">
+<div class="_universitynotifycompare">
+<div class="common_display _universitybtn common_display_js activeonclick activeonclick_university d-none">
+<span class="mobileSeparate"><span class="_compareCountersjs_univ _boldfont">0</span>/<span class="comparecookieLimit _boldfont">4</span> Universities have been added to compare</span>
+<button class="_qs_brandbtntu _updated_CompareURJS _boldfont pull-right" data-redirection="/compare-universities?nids=[]" onclick="if (!window.__cfRLUnblockHandlers) return false; Drupal.behaviors.tu_d8.getCompareContentShowmodal(this, '', 'university')" data-cf-modified-cb6d8fb66398396a222dbb48-="">
+Compare
+</button>
+<i class="fas fa-caret-down"></i>
+</div>
+<div class="common_display _programbtn common_display_js activeonclick activeonclick_programs d-none">
+<span class="mobileSeparate"><span class="_compareCountersjs_prog _boldfont">0</span>/<span class="comparecookieLimit _boldfont">4</span> Programs have been added to compare</span>
+<button class="_qs_brandbtntu _updated_CompareURJS_prog _boldfont pull-right" data-redirection="/compare-programs?nids=[]" onclick="if (!window.__cfRLUnblockHandlers) return false; Drupal.behaviors.tu_d8.getCompareContentShowmodal(this, '', 'programs')" data-cf-modified-cb6d8fb66398396a222dbb48-="">
+Compare
+</button>
+<i class="fas fa-caret-down"></i>
+</div>
+</div>
+<div class=container>
+<div class="row">
+
+<div class="col-lg-12 paddingleftrightmob0 bottomApplyfooterdivData d-none">
+<div class="_appliedQS_section">
+<div class="_inline_icons first ">
+<a class="nav-link reg-log-popup" href="#" id="user_register" data-toggle="modal" data-target="#user-global-reg" data-stab="#user_join_us">
+<span class="_iconmain">
+<i class="fal fa-paper-plane"></i>
+<i class="fas fa-paper-plane"></i>
+<span class="_appliedCounters show_in_tab_inline">0</span>
+</span>
+<span class="_texts">Applications</span>
+<span class="_appliedCounters hide_in_mob_inline">
+0
+</span>
+</a>
+</div>
+
+
+<div class="displayondesktop second compareuniversityid_pos activeonclick activeonclick_university _inline_icons _updated_CompareURJS " data-redirection="/compare-universities?nids=[]" onclick="if (!window.__cfRLUnblockHandlers) return false; Drupal.behaviors.tu_d8.openshorthandpop('university', this)" data-cf-modified-cb6d8fb66398396a222dbb48-="">
+<span class="_iconmain">
+<i class="fal fa-university"></i>
+<i class="fas fa-university"></i>
+<span class="_appliedCounters show_in_tab_inline"><span class="_compareCountersjs_univ">0</span>/<span class="comparecookieLimit">4</span></span>
+</span>
+<span class="_texts">universities</span>
+<span class="_appliedCounters hide_in_mob_inline"><span class="_compareCountersjs_univ">0</span>/<span class="comparecookieLimit">4</span></span>
+</div>
+<div class="displayondesktop third compareprogramsid_pos activeonclick activeonclick_programs _inline_icons _updated_CompareURJS_prog " data-redirection="/compare-programs?nids=[]" onclick="if (!window.__cfRLUnblockHandlers) return false; Drupal.behaviors.tu_d8.openshorthandpop('programs', this)" data-cf-modified-cb6d8fb66398396a222dbb48-="">
+<span class="_iconmain">
+<i class="fal fa-graduation-cap"></i>
+<i class="fas fa-graduation-cap"></i>
+<span class="_appliedCounters show_in_tab_inline"><span class="_compareCountersjs_prog">0</span>/<span class="comparecookieLimit">4</span></span>
+</span>
+<span class="_texts">programs</span>
+<span class="_appliedCounters hide_in_mob_inline"><span class="_compareCountersjs_prog">0</span>/<span class="comparecookieLimit">4</span></span>
+</div>
+
+
+<div class="showintabsviewimp  compareuniversityid_pos _inline_icons activeonclick activeonclick_university _updated_CompareURJS " data-redirection="/compare-universities?nids=[]" univorprog="universities" onclick="if (!window.__cfRLUnblockHandlers) return false; Drupal.behaviors.tu_d8.openshorthandpop('university', this)" data-cf-modified-cb6d8fb66398396a222dbb48-="">
+<span class="_iconmain">
+<i class="fal fa-university"></i>
+<i class="fas fa-university"></i>
+<span class="_appliedCounters show_in_tab_inline"><span class="_compareCountersjs_univ only">0</span>/<span class="comparecookieLimit">4</span></span>
+</span>
+<span class="_texts">universities</span>
+<span class="_appliedCounters hide_in_mob_inline"><span class="_compareCountersjs_univ">0</span>/<span class="comparecookieLimit">4</span></span>
+</div>
+<div class="showintabsviewimp compareprogramsid_pos _inline_icons activeonclick activeonclick_programs _updated_CompareURJS_prog " data-redirection="/compare-programs?nids=[]" univorprog="programs" onclick="if (!window.__cfRLUnblockHandlers) return false; Drupal.behaviors.tu_d8.openshorthandpop('programs', this)" data-cf-modified-cb6d8fb66398396a222dbb48-="">
+<span class="_iconmain">
+<i class="fal fa-graduation-cap"></i>
+<i class="fas fa-graduation-cap"></i>
+<span class="_appliedCounters show_in_tab_inline"><span class="_compareCountersjs_prog only">0</span>/<span class="comparecookieLimit">4</span></span>
+</span>
+<span class="_texts">programs</span>
+<span class="_appliedCounters hide_in_mob_inline"><span class="_compareCountersjs_prog">0</span>/<span class="comparecookieLimit">4</span></span>
+</div>
+
+
+<div class="_inline_icons fourth">
+<a class="nav-link reg-log-popup" href="#" id="user_register" data-toggle="modal" data-target="#user-global-reg" data-stab="#user_join_us">
+<span class="_iconmain">
+<i class="fal fa-heart"></i>
+<i class="fas fa-heart"></i>
+<span class="_appliedCounters show_in_tab_inline">0</span>
+</span>
+<span class="_texts">shortlisted</span>
+<span class="_appliedCounters hide_in_mob_inline">
+0
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="block-userdetails" class="block block-qs-user-profile block-qs-user-details">
+<div class="content">
+</div>
+</div>
+</section>
+</div>
+</section>
+</main>
+</div>
+</div>
+<div class="back_top">
+<div class="arrow-to-top-wrap d-none" title="Back to top">
+<span class="fa fa-arrow-to-top" aria-hidden="true"></span>
+</div>
+</div>
+<footer class="footer" id="accordionFooter">
+<div class="container">
+<div class="bottom_footer footer_menu_item">
+<div class="row">
+<div class="col-md-7">
+<a href="/about-qs">About</a>
+<a href="/contact-us">Contact</a>
+<a href="/privacy-policy">Privacy</a>
+<a href="/user-agreement">Users</a>
+<a href="/cookies-policy">Cookies</a>
+<small class="d-none d-md-block">&copy; QS Quacquarelli Symonds Limited 1994 - 2021. All rights reserved.</small>
+</div>
+<div class="col-md-5">
+<ul class="footer-icons">
+<li class="facbook"><a href="https://www.facebook.com/topuniversities" target="_blank" rel="nofollow"><i class="fab fa-facebook-f"></i></a></li>
+<li class="twitter"><a href="https://twitter.com/TopUnis" target="_blank" rel="nofollow"><i class="fab fa-twitter"></i></a></li>
+<li class="linked_in"><a href="https://www.linkedin.com/company/243103" target="_blank" rel="nofollow"><i class="fab fa-linkedin-in"></i></a></li>
+<li class="youtube"><a href="https://www.youtube.com/qstopuniversities?sub_confirmation=1" target="_blank" rel="nofollow"><i class="fab fa-youtube" aria-hidden="true"></i></a></li>
+<li class="instagram"><a href="https://www.instagram.com/topunis/" target="_blank" rel="nofollow"><i class="fab fa-instagram"></i></a></li>
+</ul>
+<div class="block block-qs-formblock block-qs-newsletter">
+<div class="content">
+<div class="subscribe_news_letter">
+<p>Subscribe to Our Newsletter</p>
+<form id="footer-subscribe-form" action="/newsletterCheck/">
+<input type="text" id="footer-input-email-id" placeholder="Please enter your email" name="search">
+<input type="hidden" id="footer-input-loggedin" value="1">
+<button type="button" onclick="if (!window.__cfRLUnblockHandlers) return false; Drupal.behaviors.tu_d8.footerSubscriptionForm(this)" data-cf-modified-cb6d8fb66398396a222dbb48-="">
+<i class="fal fa-arrow-right"></i>
+</button>
+<p class="subscriber-response"></p>
+</form>
+</div>
+</div>
+</div>
+<small class="d-block d-md-none">&copy; QS Quacquarelli Symonds Limited 1994 - 2021. All rights reserved.</small>
+</div>
+</div>
+
+</div>
+</footer>
+
+<div id="user-global-reg" class="modal pub-reg-log-popup _padding_bottom50px">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="qs-loader-reg d-none">
+<div class="loaderforuniv"></div>
+</div>
+<a class="close-modal" data-dismiss="modal" aria-label="Close"><i class="fas fa-times"></i></a>
+<div class="modal-body">
+<style type="text/css" media="screen">
+          @media all and (min-width: 768px) {
+            #user-global-reg .pub-info-sec {
+              background-image: url(/themes/custom/tu_d8/images/reg_form/bg-desktop.jpg);
+              background-repeat: no-repeat;
+            }
+          }
+          @media all and (max-width: 767px) {
+            #user-global-reg .pub-info-sec {
+              background-image: url(/themes/custom/tu_d8/images/reg_form/bg-mobile.png);
+              background-repeat: no-repeat;
+            }
+          }
+        </style>
+<div class="pub-info-sec">
+<div class="pop-logo-tit">
+<div class="logo-top-pop"><img src="/themes/custom/tu_d8/images/reg_form/logo.png" width="80" height="80"></div>
+<h3 class="intro-txt-pop" data-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="true" aria-controls="multiCollapseExample1">Join us to start your higher-ed journey</h3>
+</div>
+<div class="pop-cont collapse show" id="multiCollapseExample1">
+<div class="heading-bulet-pop">You also get to:</div>
+<ul>
+<li class="bp1-pop">Find your perfect University program with our matching tool</li>
+<li class="bp2-pop">Meet and apply to universities</li>
+<li class="bp3-pop">Connect with peers</li>
+<li class="bp3-pop"></li>
+</ul>
+</div>
+<div class="log-botom-pop desktop-tablet"><img src=""></div>
+</div>
+<div class="form-sec">
+<ul class="nav nav-pills login_pills float-right">
+<li class="nav-item">
+ <a class="nav-link active" id="user_sign_in_tab" data-toggle="pill" href="#user_sign_in" role="group" aria-controls="user_sign_in">Sign in</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" id="user_join_us_tab" data-toggle="pill" href="#user_join_us" role="group" aria-controls="user_join_us">Join us</a>
+</li>
+</ul>
+<div class="clearfix"></div>
+<div class="tab-content">
+<div class="tab-pane fade show active" id="user_sign_in" role="tabpanel" aria-labelledby="user_sign_in_tab">
+<div class="social-logins">
+<label>Sign in using:</label>
+<a href="#" id="sso-facebook" class="sso-facebook"><i class="fab fa-facebook-square"></i>Facebook </a><a href="#" id="sso-google" class="sso-google"><i class="fab fa-google"></i>Google</a> </div>
+<hr class="ruller-or">
+<form class="user-login-form" data-drupal-selector="user-login-form" action="/" method="post" id="user-login-form" accept-charset="UTF-8">
+<input autocomplete="off" data-drupal-selector="form-hurpdusnsaoihuexlhxvjufjhq7fqpo4t7mqsubkpya" type="hidden" name="form_build_id" value="form-HurpDusnSAOIhueXlHxvjUfjhq7fqpO4t7MqsuBKPyA" class="form-control" />
+<input data-drupal-selector="edit-user-login-form" type="hidden" name="form_id" value="user_login_form" class="form-control" />
+<div class="form-group anim_lab">
+<fieldset class="js-form-item js-form-type-textfield form-type-textfield js-form-item-name form-item-name form-group">
+<input pattern="[A-Za-z0-9.!$&amp;&#039;*-=^_`{|}~]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,10}" autocomplete="off" data-drupal-selector="edit-name" type="text" id="edit-name" name="name" value="" size="60" maxlength="60" class="form-text required form-control" required="required" aria-required="true" />
+<label for="edit-name" class="js-form-required form-required">Email</label>
+</fieldset>
+</div>
+<div class="form-group anim_lab">
+<fieldset class="js-form-item js-form-type-password form-type-password js-form-item-pass form-item-pass form-group">
+<input data-drupal-selector="edit-pass" aria-describedby="edit-pass--description" type="password" id="edit-pass" name="pass" size="60" maxlength="128" class="form-text required form-control" required="required" aria-required="true" />
+<label for="edit-pass" class="js-form-required form-required">Password</label>
+<small id="edit-pass--description" class="description text-muted">
+<a class="blue-dark" href="/user/password">Forgot password?</a> <div class="linkedin-reset">Existing LinkedIn user? Please <a href="/user/password">reset password</a> to sign-in.</div>
+</small>
+</fieldset>
+
+</div>
+<small class="form-text text-muted border-top">* Required</small>
+<input class="btn-green btn-block button js-form-submit form-submit btn" data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Sign in" data-drupal-states="{&quot;disabled&quot;:[{&quot;.user-login-form [name=\u0022name\u0022]&quot;:{&quot;value&quot;:&quot;&quot;}},{&quot;.user-login-form [name=\u0022pass\u0022]&quot;:{&quot;value&quot;:&quot;&quot;}}]}" />
+</form>
+</div>
+<div class="tab-pane fade" id="user_join_us" role="tabpanel" aria-labelledby="user_join_us_tab">
+<div class="step">Step 1 of 2: <span>Join us</span></div>
+<div class="social-logins">
+<label>Join us using:</label>
+<a href="#" id="sso-facebook" class="sso-facebook"><i class="fab fa-facebook-square"></i>Facebook</a><a href="#" id="sso-google" class="sso-google"><i class="fab fa-google"></i>Google</a> </div>
+<hr class="ruller-or">
+<form class="user-register-form user-form" data-drupal-selector="user-register-form" action="/" method="post" id="user-register-form" accept-charset="UTF-8">
+<div class="form-row">
+<div class="col anim_lab">
+<div class="field--type-string field--name-field-first-name field--widget-string-textfield js-form-wrapper form-group" data-drupal-selector="edit-field-first-name-wrapper" id="edit-field-first-name-wrapper">
+<fieldset class="js-form-item js-form-type-textfield form-type-textfield js-form-item-field-first-name-0-value form-item-field-first-name-0-value form-group">
+<input pattern="^[a-zA-Z ]*$" autocomplete="off" class="text-capitalize form-text required form-control" data-drupal-selector="edit-field-first-name-0-value" type="text" id="edit-field-first-name-0-value" name="field_first_name[0][value]" value="" size="60" maxlength="255" placeholder="" required="required" aria-required="true" />
+<label for="edit-field-first-name-0-value" class="js-form-required form-required">First Name</label>
+</fieldset>
+</div>
+</div>
+<div class="col anim_lab">
+<div class="field--type-string field--name-field-last-name field--widget-string-textfield js-form-wrapper form-group" data-drupal-selector="edit-field-last-name-wrapper" id="edit-field-last-name-wrapper">
+<fieldset class="js-form-item js-form-type-textfield form-type-textfield js-form-item-field-last-name-0-value form-item-field-last-name-0-value form-group">
+<input pattern="^[a-zA-Z ]*$" autocomplete="off" class="text-capitalize form-text required form-control" data-drupal-selector="edit-field-last-name-0-value" type="text" id="edit-field-last-name-0-value" name="field_last_name[0][value]" value="" size="60" maxlength="255" placeholder="" required="required" aria-required="true" />
+<label for="edit-field-last-name-0-value" class="js-form-required form-required">Last Name</label>
+</fieldset>
+</div>
+</div>
+</div>
+<div class="form-group anim_lab">
+<fieldset class="js-form-item js-form-type-email form-type-email js-form-item-mail form-item-mail form-group">
+<input pattern="[A-Za-z0-9.!$&amp;&#039;*-=^_`{|}~]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,10}" autocomplete="off" data-drupal-selector="edit-mail" type="email" id="edit-mail" name="mail" value="" size="60" maxlength="254" class="form-email required form-control" required="required" aria-required="true" />
+<label for="edit-mail" class="js-form-required form-required">Email</label>
+</fieldset>
+</div>
+<div class="form-group anim_lab border-bottom">
+<fieldset class="js-form-item js-form-type-password form-type-password js-form-item-pass form-item-pass form-group">
+<input pattern="^(?=.{6,})(?=.*[a-zA-Z])(?=.*[0-9]).*$" data-drupal-selector="edit-pass" type="password" id="edit-pass--2" name="pass" size="25" maxlength="128" class="form-text required form-control" required="required" aria-required="true" />
+<label for="edit-pass--2" class="js-form-required form-required">Password</label>
+</fieldset>
+<small class="text-muted"><i class="fas fa-info-circle"></i> Use at least 6 characters and one numeral</small>
+</div>
+<div class="form-group anim_lab">
+<div class="about-textfield js-form-wrapper form-group" style="display: none !important;">
+<fieldset class="js-form-item js-form-type-textfield form-type-textfield js-form-item-about form-item-about form-group">
+<input autocomplete="off" data-drupal-selector="edit-about" type="text" id="edit-about" name="about" value="" size="20" maxlength="128" class="form-text form-control" />
+<label for="edit-about">Leave this field blank</label>
+</fieldset>
+</div>
+</div>
+<small class="form-text text-muted">I confirm that I am over 16 years old and I am happy to receive newsletters and up-to-date information about Top Universities, Top MBA and QS Leap. I understand that my data will be held for as long as I am registered with the site and I will continue to receive such communications until I amend my user profile.* </small>
+<div class="bigradio"><div class="field--type-boolean field--name-field-newsletter-optin field--widget-options-buttons js-form-wrapper form-group" data-drupal-selector="edit-field-newsletter-optin-wrapper" id="edit-field-newsletter-optin-wrapper"><fieldset data-drupal-selector="edit-field-newsletter-optin" id="edit-field-newsletter-optin--wrapper" class="fieldgroup form-composite required js-form-item form-item js-form-wrapper form-group" required="required" aria-required="true">
+<div class="fieldset-wrapper">
+<div id="edit-field-newsletter-optin" class="radio">
+<div class="js-form-item js-form-type-radio radio js-form-item-field-newsletter-optin form-item-field-newsletter-optin vl-1">
+<label class="js-form-item js-form-type-radio radio js-form-item-field-newsletter-optin form-item-field-newsletter-optin vl-1 option" for="edit-field-newsletter-optin-1">
+<input data-drupal-selector="edit-field-newsletter-optin-1" type="radio" id="edit-field-newsletter-optin-1" name="field_newsletter_optin" value="1" class="form-radio">
+<div class="radio-title">Yes</div>
+</label>
+</div>
+<div class="js-form-item js-form-type-radio radio js-form-item-field-newsletter-optin form-item-field-newsletter-optin vl-0">
+<label class="js-form-item js-form-type-radio radio js-form-item-field-newsletter-optin form-item-field-newsletter-optin vl-0 option" for="edit-field-newsletter-optin-0">
+<input data-drupal-selector="edit-field-newsletter-optin-0" type="radio" id="edit-field-newsletter-optin-0" name="field_newsletter_optin" value="0" class="form-radio">
+<div class="radio-title">No</div>
+</label>
+</div>
+</div>
+</div>
+</fieldset>
+</div>
+</div>
+<small class="form-text text-muted">I am happy to receive information from universities, our media partners and other 3rd party opportunities.*</small>
+<div class="bigradio"><div class="field--type-boolean field--name-field-partner-optin field--widget-options-buttons js-form-wrapper form-group" data-drupal-selector="edit-field-partner-optin-wrapper" id="edit-field-partner-optin-wrapper"><fieldset data-drupal-selector="edit-field-partner-optin" id="edit-field-partner-optin--wrapper" class="fieldgroup form-composite required js-form-item form-item js-form-wrapper form-group" required="required" aria-required="true">
+<div class="fieldset-wrapper">
+<div id="edit-field-partner-optin" class="radio">
+<div class="js-form-item js-form-type-radio radio js-form-item-field-partner-optin form-item-field-partner-optin vl-1">
+<label class="js-form-item js-form-type-radio radio js-form-item-field-partner-optin form-item-field-partner-optin vl-1 option" for="edit-field-partner-optin-1">
+<input data-drupal-selector="edit-field-partner-optin-1" type="radio" id="edit-field-partner-optin-1" name="field_partner_optin" value="1" class="form-radio">
+<div class="radio-title">Yes</div>
+</label>
+</div>
+<div class="js-form-item js-form-type-radio radio js-form-item-field-partner-optin form-item-field-partner-optin vl-0">
+<label class="js-form-item js-form-type-radio radio js-form-item-field-partner-optin form-item-field-partner-optin vl-0 option" for="edit-field-partner-optin-0">
+<input data-drupal-selector="edit-field-partner-optin-0" type="radio" id="edit-field-partner-optin-0" name="field_partner_optin" value="0" class="form-radio">
+<div class="radio-title">No</div>
+</label>
+</div>
+</div>
+</div>
+</fieldset>
+</div>
+</div>
+<small class="form-text text-muted border-top privacy_links">
+<a href="/user-agreement">User Agreement</a> |
+<a href="/privacy-policy">Privacy Policy</a> |
+<a href="/cookies-policy">Cookie Policy</a>
+</small>
+<hr>
+<input data-drupal-selector="edit-hubspotutk" type="hidden" name="hubspotutk" value="d6b6bc971382dc17c648de239f265e81" class="form-control" />
+<input data-drupal-selector="edit-hubspot-ip-address" type="hidden" name="hubspot_ip_address" value="158.255.212.119" class="form-control" />
+<input class="btn-green btn-block button button--primary js-form-submit form-submit btn" data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" name="op" value="Create new account" data-drupal-states="{&quot;disabled&quot;:[{&quot;.user-register-form [name=\u0022mail\u0022]&quot;:{&quot;value&quot;:&quot;&quot;}},{&quot;.user-register-form [name=\u0022pass\u0022]&quot;:{&quot;value&quot;:&quot;&quot;}},{&quot;.user-register-form [name=\u0022field_first_name[0][value]\u0022]&quot;:{&quot;value&quot;:&quot;&quot;}},{&quot;.user-register-form [name=\u0022field_last_name[0][value]\u0022]&quot;:{&quot;value&quot;:&quot;&quot;}},{&quot;.user-register-form [name=\u0022field_newsletter_optin\u0022]&quot;:{&quot;value&quot;:false}},{&quot;.user-register-form [name=\u0022field_partner_optin\u0022]&quot;:{&quot;value&quot;:false}}]}" />
+<input autocomplete="off" data-drupal-selector="form-c9cx9d2ze8glycsbnfoq6dui2acuryypqq-lxnkbygu" type="hidden" name="form_build_id" value="form-c9Cx9D2ZE8GlYCsbNfOQ6dUI2ACUrYyPqq-LXnKByGU" class="form-control" />
+<input data-drupal-selector="edit-user-register-form" type="hidden" name="form_id" value="user_register_form" class="form-control" />
+<span class="required-register">* Required</span>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/3005629","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"qs_global_site_search":{"app_id":"B9VSLB5GUV","api_key":"c5a76d12563aa226198ec3dc8c27fefb","algolia_university_index":"live_tu_universities","algolia_article_index":"live_tu_articles","algolia_ranking_index":"live_tu_rankings","algolia_program_index":"live_tu_programs","algolia_video_index":"live_tu_videos","algolia_event_index":"live_tu_events","popular_searches":"\u003Cli\u003E\u003Ca href=\u0022\/search\/all#q=uni\u0022\u003E\u003Ci class=\u0022fal fa-clock\u0022\u003E\u003C\/i\u003Euni\u003C\/a\u003E\u003C\/li\u003E\u003Cli\u003E\u003Ca href=\u0022\/search\/all#q=canada\u0022\u003E\u003Ci class=\u0022fal fa-clock\u0022\u003E\u003C\/i\u003Ecanada\u003C\/a\u003E\u003C\/li\u003E\u003Cli\u003E\u003Ca href=\u0022\/search\/all#q=harvard\u0022\u003E\u003Ci class=\u0022fal fa-clock\u0022\u003E\u003C\/i\u003Eharvard\u003C\/a\u003E\u003C\/li\u003E","site_arg":"Top Universities"},"ckeditorAccordion":{"accordionStyle":{"collapseAll":0,"keepRowsOpen":null}},"basePath":"modules\/contrib\/vote_up_down","statistics":{"data":{"nid":"3005629"},"url":"\/core\/modules\/statistics\/statistics.php"},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":true,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022container\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Cp\u003EThis site uses cookies. By continuing to browse the site you are agreeing to our use of cookies.\u003Cbr \/\u003E Review our \u003Ca href=\u0022\/cookies-policy\u0022 target=\u0022_blank\u0022\u003Ecookies information\u003C\/a\u003E for more details.\u003C\/p\u003E\n\n    \u003C\/div\u003E\n\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Ca target=_blank href=\u0022\/cookies-policy\u0022 class=\u0022btn\u0022\u003EKnow More\u003C\/a\u003E\n      \u003C!-- \u003Cbutton type=\u0022button\u0022 class=\u0022btn btn-white find-more-button\u0022\u003E\u003C\/button\u003E --\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022btn btn-orrange agree-button eu-cookie-compliance-default-button\u0022\u003EAccept\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--default\u0022\u003E\n  \u003Cdiv class=\u0022container\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n    \u003C\/div\u003E\n\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Ca target=_blank href=\u0022\/cookies-policy\u0022 class=\u0022btn\u0022\u003EKnow More\u003C\/a\u003E\n      \u003C!-- \u003Cbutton type=\u0022button\u0022 class=\u0022btn btn-white find-more-button\u0022\u003E\u003C\/button\u003E --\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022btn btn-orrange agree-button eu-cookie-compliance-default-button\u0022\u003EAccept\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":true,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/cookies-policy","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"default","automatic_cookies_removal":false,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Cp\u003EThis site uses cookies. By continuing to browse the site you are agreeing to our use of cookies.\u003Cbr \/\u003EReview our \u003Ca href=\u0022\/cookies-policy\u0022\u003Ecookies information\u003C\/a\u003E\u00a0for more details.\u003C\/p\u003E\n\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":null,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":false,"containing_element":"body","settings_tab_enabled":false},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"qs_firebase_sso":{"sso_url":"https:\/\/sso.qs.com"},"g8data":"noApply","user":{"uid":0,"permissionsHash":"c3e7efc67d41c3fed7c88f9a41cd119b9f29bacb90e9e8f787709e3eefe42a02"}}</script>
+<script src="/sites/default/files/js/js_5wy00YHofFK3Kjo8Pd_oDoo8EK_RwJRD6k-jqF4c8vQ.js" type="cb6d8fb66398396a222dbb48-text/javascript"></script>
+<script src="https://static.addtoany.com/menu/page.js" async type="cb6d8fb66398396a222dbb48-text/javascript"></script>
+<script src="/sites/default/files/js/js_ub51wMJa7a5s4rqOWoE6LS41MCo9CtIgrOXRfmOjgqI.js" type="cb6d8fb66398396a222dbb48-text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.0.0/dist/algoliasearch-lite.umd.js" type="cb6d8fb66398396a222dbb48-text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.14.0/dist/instantsearch.production.min.js" type="cb6d8fb66398396a222dbb48-text/javascript"></script>
+<script src="/sites/default/files/js/js_9rd-uF1KBCEV1dLERAOPWtu_rrrL7k6_mYIqDdTjqQ0.js" type="cb6d8fb66398396a222dbb48-text/javascript"></script>
+<script src="https://kit.fontawesome.com/3b60fb92b0.js" defer type="cb6d8fb66398396a222dbb48-text/javascript"></script>
+<script src="/sites/default/files/js/js_cqHrgj7eRv8EkUEiDnbCQXxq0fmbLRmPKRSpBQQZCUQ.js" type="cb6d8fb66398396a222dbb48-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/components/search.min.js" type="cb6d8fb66398396a222dbb48-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/components/api.min.js" type="cb6d8fb66398396a222dbb48-text/javascript"></script>
+<script src="/sites/default/files/js/js_Q7fWLkYRuGPFi5QS-2oYE-LMuIUAm553FX-XBkI0q30.js" type="cb6d8fb66398396a222dbb48-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" defer type="cb6d8fb66398396a222dbb48-text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js" type="cb6d8fb66398396a222dbb48-text/javascript"></script>
+<script src="/sites/default/files/js/js_C7JKrmZ_-Txi-Ts5nWHBi8igVE3Vnm8pojxrpTYblGU.js" type="cb6d8fb66398396a222dbb48-text/javascript"></script>
+<script src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.js?v=1.9" defer type="cb6d8fb66398396a222dbb48-text/javascript"></script>
+<script src="/sites/default/files/js/js_EX-mM7oFwB2BkVH_9hSR0pTArNsMaGY9qFrvgc6WvcE.js" type="cb6d8fb66398396a222dbb48-text/javascript"></script>
+<script type="cb6d8fb66398396a222dbb48-text/javascript">
+    WebFontConfig = {
+      google: {
+        families: [
+          'Lato:100,100i,300,300i,400,400i,500,500i,600,600i,700,700i,900,900i',
+          'Red Hat Display:300,400,500,600,700,900',
+        ]
+      }
+    };
+    (function(d) {
+      var wf = d.createElement('script'), s = d.scripts[0];
+      wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+      wf.async = true;
+      s.parentNode.insertBefore(wf, s);
+    })(document);
+      </script>
+<script async type="application/ld+json">
+   {
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "Top Universities",
+    "alternateName": "Top Universities",
+    "url": "https://www.topuniversities.com"
+  }
+  </script>
+
+<div class="body_resize_modal d-none">
+<div class="_gallery_popup_title">
+<div class="row">
+<div class="col-lg-12">
+<span class="_gallery_title _gallery_title_jsuniv">&nbsp;</span>
+<span class="float-right _colormobile closeGalleryArticles">
+<a class="_article_popup_close _gallerycloseicon"><i class="fal fa-times"></i></a>
+</span>
+</div>
+</div>
+</div>
+<div class="bodyheader">
+<div class="_media_playerwidthheight _createHTMLDOM_galleryjs" style="text-align:center;">
+<div class="html5gallery-loading" style="display:block;margin:0 auto;width:300px;height:300px;background:url('/themes/custom/tu_d8/js/skins/gallery/loading.gif') no-repeat center center;"></div>
+</div>
+</div>
+</div>
+
+<script type="cb6d8fb66398396a222dbb48-text/javascript">(function(a, b, c, d, e, f, g, h) {
+    a = ''; e = 'wcifrc'; f = '100%'; g = '6790.15px'; h = 'https://www.white-cloud.io/widget?site=' + window.location.hostname;
+    b = document; c = 'script';
+    d = b.createElement(c); d.type = 'text/java' + c; d.src = a;
+    a = b.getElementsByTagName(c)[0]; a.parentNode.insertBefore(d, a);
+    c = 'iframe'; d = b.createElement(c); d.src = h; d.id = 'wcifrm'; d.scrolling = 'no'; d.width = f; d.height = g; d.style = 'border-color:transparent;position:relative;z-index:200;';
+    a = b.getElementById(e); if(a) { a.insertBefore(d, a.childNodes[0]); }
+    c = 'div'; d = b.createElement(c); d.id = 'wcmod'; d.style = 'background-color:rgba(0,0,0,0.3);display:none;top:0;left:0;width:100%;height:100%;position:fixed;z-index:100;';
+    a = b.getElementById('wcifrm'); if(a) { a.insertAdjacentElement("afterend", d); }
+    e = "setTimeout(function(){window.addEventListener('message',function(e){if('ShowModalJbe'===event.data){document.getElementById('wcmod').style.display='block';return;}if('CloseModalJbe'===event.data){document.getElementById('wcmod').style.display='none';return;}},false);iFrameResize({heightCalculationMethod:'lowestElement',checkOrigin: false,messageCallback:function(msgD){console.log('cb!!');msgD.message==='ShowModalJbe'?document.getElementById('wcmod').style.display='block':document.getElementById('wcmod').style.display='none';}},'#wcifrm');}, 3000);";
+    c = 'script'; d = b.createElement(c); d.async = false; d.insertAdjacentText("afterbegin", e);
+    a = b.body.lastChild; if(a) { a.insertAdjacentElement("afterend", d); }
+    })();
+  </script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="cb6d8fb66398396a222dbb48-|49" defer=""></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v64f9daad31f64f81be21cbef6184a5e31634941392597" integrity="sha512-gV/bogrUTVP2N3IzTDKzgP0Js1gg4fbwtYB6ftgLbKQu/V8yH2+lrKCfKHelh4SO3DPzKj4/glTO+tNJGDnb0A==" data-cf-beacon='{"rayId":"6b33ea025f117c58","token":"3f1db70e1b8440979416801e311d8074","version":"2021.11.0","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>

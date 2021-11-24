@@ -1,4 +1,4 @@
-<?php include "parts/header.php" ?>
+<?php include "parts2/header-logout.php" ?>
 
 
 <div class="main-content">
@@ -37,7 +37,7 @@
                             <td><?php echo $email ?></td>
 
                         <td>
-                            <a href="delete.php?id=<?php echo $id; ?>" class="btn-danger" >Delete</a>
+                            <a href="../delete.php?id=<?php echo $id; ?>" class="btn-danger" >Delete</a>
 
                         </td>
                         </tr>
@@ -54,5 +54,5 @@
 </div>
 
 
-<?php include "parts/footer.php" ?>
+<?php include "../parts/footer.php" ?>
 

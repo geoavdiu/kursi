@@ -1,6 +1,8 @@
 <?php include "parts/header.php"?>
 
-<form  class="register text_center" method="post" enctype="multipart/form-data"
+<form  class="register text_center" method="post" enctype="multipart/form-data">
+
+    <h1 class="text_center">LOG IN</h1>
 
 <?php
 if (isset($_SESSION['register'])){
@@ -13,16 +15,19 @@ if (isset($_SESSION['login'])){
 }
 ?>
 
+
+
 <label for="email">Email address</label>
-<input type="email" name="email" placeholder="Enter email" required><br>
+<input type="email" name="email" placeholder="Enter email" required><br><br>
 <label for="pass">Password</label>
 <input type="password" name="password" placeholder="Enter Password" required><br>
 
-<button type="submit" name="login">LOG IN</button>
+<button  type="submit" name="login">LOG IN</button><br><br>
 
 <p>Not a member <a href="hyr.php">Regjistrohu</a></p>
 
 </form>
+<br><br>
 
 <?php
 
@@ -39,7 +44,7 @@ if (isset($_POST['login'])){
     if ($count==1){
 
         echo $_SESSION['login'] = "<div class='success text_center'>Jeni kyqur me sukses</div>";
-        header('location:index.php');
+        header('location: afterlogin/index2.php');
     }else {
         echo $_SESSION['login'] = "<div class='error text_center'>Emaili ose passwordi gabim</div>";
 
